@@ -1,0 +1,4 @@
+*.tmp
+*.draft
+.DS_Store
+Thumbs.db
