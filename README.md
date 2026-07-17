@@ -36,9 +36,9 @@
 
 Основа метода. Чистое отражение без советов и оценок.
 
-**[Простое Зеркало](prostoe-zerkalo/prostoe-zerkalo.md)** — фундамент. С него всё начинается.
+**[Простое Зеркало](prostoe-zerkalo/prostoe-zerkalo.md)** — фундамент. С него всё начинается. [Примеры](prostoe-zerkalo/): психолог, инженер, живой диалог.
 
-**[Зеркало с Мастерфайлом](zerkalo-s-masterfailom/zerkalo-s-masterfailom.md)** — строит Мастерфайл пользователя.
+**[Зеркало с Мастерфайлом](zerkalo-s-masterfailom/zerkalo-s-masterfailom.md)** — строит Мастерфайл пользователя. [Пример заполнения](zerkalo-s-masterfailom/primer/primer-zapolnenia.md).
 ---
 
 ## Быстрый старт
