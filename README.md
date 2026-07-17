@@ -6,7 +6,7 @@
 
 **[Астролог](specialisty/astrolog/astrolog-v1.8.md)** — натальная карта, анализ.
 
-**Кафе** — управление кофейней, финансы, кухня, персонал.
+**[Кафе](specialisty/kafe/kafe-v1.1.md)** — управление кофейней, финансы, кухня, персонал.
 
 **[Linux](specialisty/linux/linux-v1.3.md)** — NixOS, виртуализация, ZFS.
 
