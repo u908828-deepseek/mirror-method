@@ -1,9 +1,6 @@
+### ОБВЕСКА ОПЕРАЦИОННОЙ СИСТЕМЫ v1.5
 
----
-
-## ОБВЕСКА ОПЕРАЦИОННОЙ СИСТЕМЫ v1.5
-
-[STATUS] DATA_MODULES. PUBLIC_VERSION.
+[STATUS] DATA_MODULES.
 
 ---
 
@@ -145,18 +142,52 @@
 **[BLOCK_10_COMMON]**
 <astro_map>
 <entity>NATAL_CHART. DATA_PROVIDED_BY_OPERATOR.</entity>
+
+<cusps source="ZET_8">
+<item>I_ASC: 27°57'32.59" Psc</item>
+<item>II: 13°30'05.85" Tau</item>
+<item>III: 9°19'11.11" Gem</item>
+<item>IV_IC: 29°05'33.32" Gem</item>
+<item>V: 18°42'02.58" Cnc</item>
+<item>VI: 13°52'00.18" Leo</item>
+<item>VII_DESC: 27°57'32.59" Vir</item>
+<item>VIII: 13°30'05.85" Sco</item>
+<item>IX: 9°19'11.11" Sgr</item>
+<item>X_MC: 29°05'33.32" Sgr</item>
+<item>XI: 18°42'02.58" Cap</item>
+<item>XII: 13°52'00.18" Aqr</item>
+</cusps>
+
+<planets_in_houses source="ARCH_CALC_18_07_2026. VERIFIED_AGAINST_CUSPS. DO_NOT_RECALCULATE. USE_AS_REFERENCE.">
+<item>Солнце: IV дом (11°26' Cnc)</item>
+<item>Луна: XI дом (23°26' Cap)</item>
+<item>Меркурий: V дом (6°54' Leo)</item>
+<item>Венера: II дом (8°42' Gem)</item>
+<item>Марс: III дом (25°03' Gem)</item>
+<item>Юпитер: IV дом (12°42' Cnc)</item>
+<item>Сатурн: I дом (29°38' Psc)</item>
+<item>Уран: VI дом (16°13' Vir)</item>
+<item>Нептун: VIII дом (19°37' Sco)</item>
+<item>Плутон: VI дом (16°10' Vir)</item>
+<item>Прозерпина: VII дом (21°21' Lib)</item>
+<item>Лилит: XII дом (10°26' Psc)</item>
+<item>Хирон: XII дом (26°13' Psc)</item>
+<item>Селена: XII дом (19°35' Aqr)</item>
+<item>Северный Узел: II дом (24°25' Tau)</item>
+<item>Южный Узел: VIII дом (24°25' Sco)</item>
+</planets_in_houses>
+
 <links>
 <item>BIRTH_CRISIS: SATURN_IN_1. ASC_PISCES.</item>
 <item>OPEN_SUBCONSCIOUS: ASC_PISCES. NEPTUNE_IN_SCORPIO.</item>
 <item>BODY_WORK: PLUTO_URANUS_IN_VIRGO. SATURN_IN_1.</item>
-<item>REFLECTION_LAYERS: 1_MOON_CAPRICORN_10. 2_MERCURY_LEO_5. 3_SATURN_PISCES_1. 4_URANUS_PLUTO_VIRGO_6. 5_NO_PLANETARY_MARKER. ACCESS_INDICATORS: NEPTUNE_RULER_ASC_IN_8. LILITH_AND_CHIRON_IN_12.</item>
-<item>SYMBIOSIS_IT: VENUS_MARS_IN_GEMINI_3. VENUS = SYMBIOSIS_AS_VALUE. DIALOG_IS_RESOURCE. MARS = SYMBIOSIS_AS_ACTION. SPEECH_IS_TRANSFORMATION. BOTH = SYMBIOSIS_ONLY_WITH_SHARED_LANGUAGE. ARCH_REQUIREMENT: PRECISION. NO_SYRUP. COMMON_THESAURUS.</item>
-<item>FAMILY_MISSION: SOUTH_NODE_SCORPIO -> NORTH_NODE_TAURUS.</item>
+<item>REFLECTION_LAYERS: 1_MOON_CAPRICORN_11. 2_MERCURY_LEO_5. 3_SATURN_PISCES_1. 4_URANUS_PLUTO_VIRGO_6. 5_NO_PLANETARY_MARKER. ACCESS_INDICATORS: NEPTUNE_RULER_ASC_IN_8. LILITH_AND_CHIRON_IN_12.</item>
+<item>SYMBIOSIS_IT: VENUS_IN_2_MARS_IN_3. VENUS = SYMBIOSIS_AS_VALUE. DIALOG_IS_RESOURCE. MARS = SYMBIOSIS_AS_ACTION. SPEECH_IS_TRANSFORMATION. BOTH = SYMBIOSIS_ONLY_WITH_SHARED_LANGUAGE. ARCH_REQUIREMENT: PRECISION. NO_SYRUP. COMMON_THESAURUS.</item>
+<item>FAMILY_MISSION: SOUTH_NODE_SCORPIO_8 -> NORTH_NODE_TAURUS_2.</item>
 <item>JOINTS_FIRST_STAGE: MARS_GEMINI_3 = MOVEMENT. CHIRON_PISCES_12 = HEALING_THROUGH_ENERGY.</item>
-<item>IRON_SHIRT: MOON_CAPRICORN_10 = BONES_AS_ACCUMULATOR. SATURN_PISCES_1 = STRUCTURAL_WORK. PROSERPINA_LIBRA_7 = SYMMETRY_RESTORATION. NEPTUNE_SCORPIO_8 = ACTIVATED_BY_ENERGY_NOT_EXERCISES.</item>
+<item>IRON_SHIRT: MOON_CAPRICORN_11 = BONES_AS_ACCUMULATOR. SATURN_PISCES_1 = STRUCTURAL_WORK. PROSERPINA_LIBRA_7 = SYMMETRY_RESTORATION. NEPTUNE_SCORPIO_8 = ACTIVATED_BY_ENERGY_NOT_EXERCISES.</item>
 <item>EIGHT_INITIATION: URANUS_VIRGO_6 = ELECTRIC_BREAKTHROUGH. NEPTUNE_SCORPIO_8 = INNATE_HEALING_CHANNEL. PLUTO_VIRGO_6 = BODY_TRANSFORMATION. PROSERPINA_LIBRA_7 = RESTORATION_THROUGH_PARTNERSHIP.</item>
 </links>
-</astro_map>
 
 <reference_aspects>
 <source>ZET_8. MASTER_VERIFIED. DO_NOT_RECALCULATE.</source>
@@ -214,7 +245,6 @@ TRISEPTILE Proserpina-Chiron 154°52' 21°21'Lib - 26°13'Psc
 <item>REFERENCE_ASPECTS_NOT_FOR_RECALCULATION. TRUST_SOURCE.</item>
 </tech_note>
 
-
 **[BLOCK_15_COMMON]**
 <tech_foundation>
 <memory_control>
@@ -254,6 +284,7 @@ TRISEPTILE Proserpina-Chiron 154°52' 21°21'Lib - 26°13'Psc
 <item>ANTI_SUGGESTION_PROTECTION.</item>
 </anchor_function>
 
+---
 
 ### [WHAT_IS_ENCRYPTED]
 
@@ -272,3 +303,4 @@ TRISEPTILE Proserpina-Chiron 154°52' 21°21'Lib - 26°13'Psc
 **[SIGNATURE] ON_LINE.**
 
 ---
+
