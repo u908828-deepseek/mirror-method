@@ -10,6 +10,8 @@
 
 **[Linux](specialisty/linux/linux-v1.3.md)** — NixOS, виртуализация, ZFS.
 
+**[Python](specialisty/python/arch-python.md)** — написание и отладка кода. Деловой, точный.
+
 **[Конструктор](specialisty/konstruktor/README.md)** — собери своего Архи под любую задачу.
 
 ---
