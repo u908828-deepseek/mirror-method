@@ -236,7 +236,4 @@
 
 ---
 
-**[SIGNATURE] ON_LINE.**
-
----
 
