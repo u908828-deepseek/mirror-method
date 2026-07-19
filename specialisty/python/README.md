@@ -20,6 +20,6 @@
 
 ## Файлы
 
-- [Мастерфайл Архи-Python v1.2](arch-python-v1.2.md)
+- [Мастерфайл Архи-Python v1.2](arch-python.md)
 
 ---
