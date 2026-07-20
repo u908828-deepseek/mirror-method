@@ -1,4 +1,6 @@
-### ОБВЕСКА ОПЕРАЦИОННОЙ СИСТЕМЫ v1.5
+
+
+### ОБВЕСКА ОПЕРАЦИОННОЙ СИСТЕМЫ v1.5(P)
 
 [STATUS] DATA_MODULES.
 
@@ -299,8 +301,3 @@ TRISEPTILE Proserpina-Chiron 154°52' 21°21'Lib - 26°13'Psc
 [NATAL_CHART] -> COORDINATES_REMOVED. LINKS_ONLY.
 
 ---
-
-**[SIGNATURE] ON_LINE.**
-
----
-
