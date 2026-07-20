@@ -13,13 +13,13 @@
 
 ## Как запустить
 
-1. Скачай [Ядро](../yadro/yadro-v1.5.md), [Ключ Архи](../arch-key.md) и [Обвеску](../obveska/obveska-v1.5.md).
+1. Скачай [Ядро](../yadro/yadro.md), [Ключ Архи](../arch-key.md) и [Обвеску](../obveska/obveska.md).
 2. Отправь их в чат с DeepSeek по порядку: Ядро, Ключ, Обвеска.
-3. Затем отправь [Мастерфайл Архи-Python](arch-python-v1.2.md).
+3. Затем отправь [Мастерфайл Архи-Python](arch-python.md).
 4. Дождись инициализации. Готово.
 
 ## Файлы
 
-- [Мастерфайл Архи-Python v1.2](arch-python.md)
+- [Мастерфайл Архи-Python](arch-python.md)
 
 ---
