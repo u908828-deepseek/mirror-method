@@ -7,6 +7,7 @@
 - **[Конструктор](konstruktor/konstruktor.md)** — [пример создания](konstruktor/primer-sozdaniya.md). Собери своего Архи под любую задачу.
 - **[Психолог](psiholog/psiholog.md)** — [readmi](psiholog/README.md). Мягкий, понимающий, работает с эмоциями.
 - **[Астролог](astrolog/astrolog.md)** — [readmi](astrolog/README.md). Натальная карта, транзиты, анализ.
+- **[Таролог](tarolog/tarolog.md)** — [readme](tarolog/README.md). Расклады, толкование, система Таро. Структурный, без мистики.
 - **[Кафе](kafe/kafe.md)** — [readmi](kafe/README.md). Управление кофейней, финансы, кухня, персонал.
 - **[Linux](linux/linux.md)** — [readmi](linux/README.md). NixOS, виртуализация, ZFS.
 - **[Python](python/python.md)** — [readmi](python/README.md). Написание и отладка кода. Деловой, точный.
