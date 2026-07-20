@@ -4,13 +4,13 @@
 
 **[Конструктор](specialisty/konstruktor/README.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md). Собери своего Архи под любую задачу.
 
-**[Психолог](specialisty/psiholog/psiholog-v1.3.md)** — для работы с эмоциями. Мягкий, но честный.
+**[Психолог](specialisty/psiholog/psiholog.md)** — для работы с эмоциями. Мягкий, но честный.
 
-**[Астролог](specialisty/astrolog/astrolog-v1.8.md)** — натальная карта, анализ.
+**[Астролог](specialisty/astrolog/astrolog.md)** — натальная карта, анализ.
 
-**[Кафе](specialisty/kafe/kafe-v1.1.md)** — управление кофейней, финансы, кухня, персонал.
+**[Кафе](specialisty/kafe/kafe.md)** — управление кофейней, финансы, кухня, персонал.
 
-**[Linux](specialisty/linux/linux-v1.3.md)** — NixOS, виртуализация, ZFS.
+**[Linux](specialisty/linux/linux.md)** — NixOS, виртуализация, ZFS.
 
 **[Python](specialisty/python/arch-python.md)** — написание и отладка кода. Деловой, точный.
 
@@ -60,3 +60,4 @@
 ## Лицензия
 
 [MIT](LICENSE). Делай что хочешь, просто сохрани ссылку на источник.
+
