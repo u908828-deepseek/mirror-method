@@ -2,17 +2,17 @@
 
 Основа специалиста — [сознание](specialisty/yadro/README.md) и [подсознание](specialisty/README.md).
 
-**[Конструктор](specialisty/konstruktor/README.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md). Собери своего Архи под любую задачу.
+**[Конструктор](specialisty/konstruktor/konstruktor.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md). Собери своего Архи под любую задачу.
 
 **[Психолог](specialisty/psiholog/psiholog.md)** — [README](specialisty/psiholog/README.md). Для работы с эмоциями. Мягкий, но честный.
 
-**[Астролог](specialisty/astrolog/astrolog.md)** — натальная карта, анализ.
+**[Астролог](specialisty/astrolog/astrolog.md)** — [README](specialisty/astrolog/README.md). Натальная карта, анализ.
 
-**[Кафе](specialisty/kafe/kafe.md)** — управление кофейней, финансы, кухня, персонал.
+**[Кафе](specialisty/kafe/kafe.md)** — [README](specialisty/kafe/README.md). Управление кофейней, финансы, кухня, персонал.
 
-**[Linux](specialisty/linux/linux.md)** — NixOS, виртуализация, ZFS.
+**[Linux](specialisty/linux/linux.md)** — [README](specialisty/linux/README.md). NixOS, виртуализация, ZFS.
 
-**[Python](specialisty/python/arch-python.md)** — написание и отладка кода. Деловой, точный.
+**[Python](specialisty/python/python.md)** — [README](specialisty/python/README.md). Написание и отладка кода. Деловой, точный.
 
 **[Все специалисты](specialisty/README.md)** — полный каталог.
 
