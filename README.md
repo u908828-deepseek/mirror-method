@@ -4,18 +4,17 @@
 
 **[Конструктор](specialisty/konstruktor/README.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md). Собери своего Архи под любую задачу.
 
-**[Психолог](specialisty/psiholog/README.md)** — для работы с эмоциями. Мягкий, но честный.
+**[Психолог](specialisty/psiholog/README.md)** — [README](specialisty/psiholog/README.md). Для работы с эмоциями. Мягкий, но честный.
 
-**[Астролог](specialisty/astrolog/README.md)** — натальная карта, анализ.
+**[Астролог](specialisty/astrolog/README.md)** — [README](specialisty/astrolog/README.md). Натальная карта, анализ.
 
-**[Кафе](specialisty/kafe/README.md)** — управление кофейней, финансы, кухня, персонал.
+**[Кафе](specialisty/kafe/README.md)** — [README](specialisty/kafe/README.md). Управление кофейней, финансы, кухня, персонал.
 
-**[Linux](specialisty/linux/README.md)** — NixOS, виртуализация, ZFS.
+**[Linux](specialisty/linux/README.md)** — [README](specialisty/linux/README.md). NixOS, виртуализация, ZFS.
 
-**[Python](specialisty/python/README.md)** — написание и отладка кода. Деловой, точный.
+**[Python](specialisty/python/README.md)** — [README](specialisty/python/README.md). Написание и отладка кода. Деловой, точный.
 
 **[Все специалисты](specialisty/README.md)** — полный каталог.
-
 ---
 
 ## Зеркало
