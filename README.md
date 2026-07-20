@@ -4,7 +4,7 @@
 
 **[Конструктор](specialisty/konstruktor/konstruktor.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md). Собери своего Архи под любую задачу.
 
-**[Психолог](specialisty/psiholog/psiholog.md)** — [README](specialisty/psiholog/README.md). Для работы с эмоциями. Мягкий, но честный.
+**[Психолог](specialisty/psiholog/psiholog.md)** — [readmi](specialisty/psiholog/README.md). Для работы с эмоциями. Мягкий, но честный.
 
 **[Астролог](specialisty/astrolog/astrolog.md)** — [README](specialisty/astrolog/README.md). Натальная карта, анализ.
 
