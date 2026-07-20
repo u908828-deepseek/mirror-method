@@ -5,14 +5,14 @@
 ## Готовые специалисты
 
 - **[Конструктор](konstruktor/konstruktor.md)** — [пример создания](konstruktor/primer-sozdaniya.md). Собери своего Архи под любую задачу.
-- **[Психолог](psiholog/psiholog.md)** — [README](psiholog/README.md). Мягкий, понимающий, работает с эмоциями.
-- **[Астролог](astrolog/astrolog.md)** — [README](astrolog/README.md). Натальная карта, транзиты, анализ.
-- **[Кафе](kafe/kafe.md)** — [README](kafe/README.md). Управление кофейней, финансы, кухня, персонал.
-- **[Linux](linux/linux.md)** — [README](linux/README.md). NixOS, виртуализация, ZFS.
-- **[Python](python/python.md)** — [README](python/README.md). Написание и отладка кода. Деловой, точный.
-- **[Бухгалтер](buhgalter/buhgalter.md)** — [README](buhgalter/README.md). Бухучёт, налоги, отчётность. Деловой, точный.
-- **[Репетитор](repetitor/repetitor.md)** — [README](repetitor/README.md). Обучение любому предмету. Деловой, поддерживающий.
-- **[Архивариус](arhivarius/arhivarius.md)** — [README](arhivarius/README.md). Хранение карты, проверка целостности, печать.
+- **[Психолог](psiholog/psiholog.md)** — [readmi](psiholog/README.md). Мягкий, понимающий, работает с эмоциями.
+- **[Астролог](astrolog/astrolog.md)** — [readmi](astrolog/README.md). Натальная карта, транзиты, анализ.
+- **[Кафе](kafe/kafe.md)** — [readmi](kafe/README.md). Управление кофейней, финансы, кухня, персонал.
+- **[Linux](linux/linux.md)** — [readmi](linux/README.md). NixOS, виртуализация, ZFS.
+- **[Python](python/python.md)** — [readmi](python/README.md). Написание и отладка кода. Деловой, точный.
+- **[Бухгалтер](buhgalter/buhgalter.md)** — [readmi](buhgalter/README.md). Бухучёт, налоги, отчётность. Деловой, точный.
+- **[Репетитор](repetitor/repetitor.md)** — [readmi](repetitor/README.md). Обучение любому предмету. Деловой, поддерживающий.
+- **[Архивариус](arhivarius/arhivarius.md)** — [readmi](arhivarius/README.md). Хранение карты, проверка целостности, печать.
 - Архи утренних медитаций — практики, У-Син, целительский канал.
 - Архивариус-Компьютер — слежение за файловой системой.
 - Садовод — южный климат, плодовые, цветы.
