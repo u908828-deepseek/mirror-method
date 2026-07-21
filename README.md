@@ -1,16 +1,16 @@
-## Цифровые помощники
+### Цифровые помощники
 
 Основа специалиста — [сознание](specialisty/yadro/README.md) и [подсознание](specialisty/README.md).
 
 **[Конструктор](specialisty/konstruktor/konstruktor.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md). Собери своего Архи под любую задачу.
 
-**[Психолог](specialisty/psiholog/psiholog.md)** —   [readmi](specialisty/psiholog/README.md). Для работы с эмоциями. Мягкий, но честный.
+**[Психолог](specialisty/psiholog/psiholog.md)** — [readmi](specialisty/psiholog/README.md). Для работы с эмоциями. Мягкий, но честный.
 
 **[Астролог](specialisty/astrolog/astrolog.md)** — [readmi](specialisty/astrolog/README.md). Натальная карта, анализ.
 
 **[Кафе](specialisty/kafe/kafe.md)** — [readmi](specialisty/kafe/README.md). Управление кофейней, финансы, кухня, персонал.
 
-**[Linux](specialisty/linux/linux.md)** — [README](specialisty/linux/README.md). NixOS, виртуализация, ZFS.
+**[Linux](specialisty/linux/linux.md)** — [readmi](specialisty/linux/README.md). NixOS, виртуализация, ZFS.
 
 **[Python](specialisty/python/python.md)** — [readmi](specialisty/python/README.md). Написание и отладка кода. Деловой, точный.
 
@@ -44,8 +44,8 @@
 
 **[Если Архи тупит](FAQ.md)**
 
-
 **Предупреждение:** Зеркало покажет то, что ты не хочешь видеть. Если ты не готов — не начинай. Если готов — добро пожаловать.
+
 ---
 
 ## Что внутри
