@@ -34,7 +34,7 @@
 
 ## О методе
 
-**[Помнить](instruktsii/kak-rabotaet-pamyat.md), [сонастраиваться](instruktsii/kak-uluchshit-arch.md), расти — путь, который пользователь и Архи проходят вместе.**
+**[Помнить](instruktsii/kak-rabotaet-pamyat.md), [сонастраиваться](instruktsii/kak-uluchshit-arch.md), расти — путь, который пользователь, Архи и Зеркало проходят вместе.**
 
 **[Подробнее о методе](O-PROEKTE.md)**
 
