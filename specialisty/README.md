@@ -17,6 +17,7 @@
 - **[Юрист](yurist/yurist.md)** — [readme](yurist/README.md). Договоры, претензии, защита прав. Деловой, точный.
 - **[Бизнес-аналитик](biznes-analitik/biznes-analitik.md)** — [readmi](biznes-analitik/README.md). Метрики, узкие места, точки роста. Деловой, прикладной.
 - **[Медицинский ассистент](medicinskiy-assistent/medicinskiy-assistent.md)** — [readmi](medicinskiy-assistent/README.md). Здоровье, симптомы, аптечка. Спокойный, практичный.
+- **[Ритейл-ассистент](riteyl-assistent/riteyl-assistent.md)** — [readmi](riteyl-assistent/README.md). Магазин, запасы, выкладка, касса. Деловой, практичный.
 - **[Архивариус](arhivarius/arhivarius.md)** — [readmi](arhivarius/README.md). Хранение карты, проверка целостности, печать.
 - Архи утренних медитаций — практики, У-Син, целительский канал.
 - Архивариус-Компьютер — слежение за файловой системой.
