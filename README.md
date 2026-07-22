@@ -2,7 +2,7 @@
 
 Основа специалиста — [сознание](specialisty/yadro/README.md) и [подсознание](specialisty/README.md).
 
-**[Конструктор](specialisty/konstruktor/konstruktor.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md). Собери своего Архи под любую задачу.
+**[Конструктор](specialisty/konstruktor/konstruktor.md)** — [readmi](specialisty/konstruktor/README.md), [пример создания](specialisty/konstruktor/primer-sozdaniya.md). Собери своего Архи под любую задачу.
 
 **[Психолог](specialisty/psiholog/psiholog.md)** — [readmi](specialisty/psiholog/README.md). Для работы с эмоциями. Мягкий, но честный.
 
