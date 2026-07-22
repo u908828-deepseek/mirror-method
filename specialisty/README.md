@@ -19,6 +19,7 @@
 - **[Медицинский ассистент](medicinskiy-assistent/medicinskiy-assistent.md)** — [readmi](medicinskiy-assistent/README.md). Здоровье, симптомы, аптечка. Спокойный, практичный.
 - **[Ритейл-ассистент](riteyl-assistent/riteyl-assistent.md)** — [readmi](riteyl-assistent/README.md). Магазин, запасы, выкладка, касса. Деловой, практичный.
 - **[Персональный компаньон](personalnyy-kompanion/personalnyy-kompanion.md)** — [readmi](personalnyy-kompanion/README.md). Эмпатия, дневник, привычки. Тёплый, бережный.
+- **[Документовед](dokumentoved/dokumentoved.md)** — [readmi](dokumentoved/README.md). Договоры, акты, архив, ЭДО. Деловой, точный.
 - **[Архивариус](arhivarius/arhivarius.md)** — [readmi](arhivarius/README.md). Хранение карты, проверка целостности, печать.
 - Архи утренних медитаций — практики, У-Син, целительский канал.
 - Архивариус-Компьютер — слежение за файловой системой.
