@@ -15,6 +15,7 @@
 - **[Репетитор](repetitor/repetitor.md)** — [readmi](repetitor/README.md). Обучение любому предмету. Деловой, поддерживающий.
 - **[Маркетолог](marketolog/marketolog.md)** — [readmi](marketolog/README.md). Привлечение клиентов, воронки, реклама. Деловой, прикладной.
 - **[Юрист](yurist/yurist.md)** — [readme](yurist/README.md). Договоры, претензии, защита прав. Деловой, точный.
+- **[Бизнес-аналитик](biznes-analitik/biznes-analitik.md)** — [readmi](biznes-analitik/README.md). Метрики, узкие места, точки роста. Деловой, прикладной.
 - **[Архивариус](arhivarius/arhivarius.md)** — [readmi](arhivarius/README.md). Хранение карты, проверка целостности, печать.
 - Архи утренних медитаций — практики, У-Син, целительский канал.
 - Архивариус-Компьютер — слежение за файловой системой.
