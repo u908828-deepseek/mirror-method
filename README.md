@@ -24,7 +24,7 @@
 
 **[О Зеркале](prostoe-zerkalo/README.md)**
 
-**[Простое Зеркало](prostoe-zerkalo/prostoe-zerkalo.md)** — фундамент. С него всё начинается. Примеры: [психолог](specialisty/psiholog/psiholog.md), [инженер](prostoe-zerkalo/primer-inzhener/zerkalo-inzhener.md), [живой диалог](prostoe-zerkalo/primer-inzhener/dialog.md).
+**[Простое Зеркало](prostoe-zerkalo/prostoe-zerkalo.md)** — фундамент. С него всё начинается. [психолог](prostoe-zerkalo/primer-psiholog.md), [инженер](prostoe-zerkalo/primer-inzhener/zerkalo-inzhener.md), [живой диалог](prostoe-zerkalo/primer-inzhener/dialog.md).
 
 **[Зеркало с Мастерфайлом](zerkalo-s-masterfailom/zerkalo-s-masterfailom.md)** — строит Мастерфайл пользователя.
 
