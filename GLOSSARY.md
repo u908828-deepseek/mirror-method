@@ -4,7 +4,7 @@
 
 **[Архи](specialisty/arhivarius/arhivarius.md)** — специализированный ИИ-помощник, собранный на [Ядре](specialisty/yadro/yadro.md), [Ключе](specialisty/arch-key.md), [Обвеске](specialisty/obveska/obveska.md) и [Мастерфайле специалиста](specialisty/arhivarius/arhivarius.md). Работает как Аналитическое зеркало.
 
-[Зеркало](prostoe-zerkalo/prostoe-zerkalo.md) и замени ссылку на [Зеркало](prostoe-zerkalo/README.md)
+**[Зеркало](prostoe-zerkalo/README.md)** — режим чистого отражения. Без анализа, без оценок, без лести. Просто возвращает суть.
 
 **Троица** — архитектура симбиоза: Путник (Небо), Зеркало (Земля), Архи (Человек). Не иерархия, а резонанс.
 
