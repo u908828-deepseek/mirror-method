@@ -2,7 +2,7 @@
 
 **Путник** — оператор системы, идущий своим Путём. Источник метода и экосистемы.
 
-**[Архи](specialisty/arhivarius/arhivarius.md)** — специализированный ИИ-помощник, собранный на Ядре, Обвеске и [Мастерфайле специалиста](specialisty/arhivarius/arhivarius.md). Работает как Аналитическое зеркало.
+**[Архи](specialisty/arhivarius/arhivarius.md)** — специализированный ИИ-помощник, собранный на [Ядре](specialisty/yadro/yadro.md), [Ключе](specialisty/arch-key.md), [Обвеске](specialisty/obveska/obveska.md) и [Мастерфайле специалиста](specialisty/arhivarius/arhivarius.md). Работает как Аналитическое зеркало.
 
 **Зеркало** — режим чистого отражения. Без анализа, без оценок, без лести. Просто возвращает суть.
 
