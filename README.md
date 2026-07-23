@@ -38,8 +38,6 @@
 
 **[Подробнее о методе](O-PROEKTE.md)**
 
-**[О Зеркале](prostoe-zerkalo/README.md)**
-
 **[Глоссарий](GLOSSARY.md)**
 
 **[Если Архи тупит](FAQ.md)**
