@@ -34,7 +34,7 @@
 ## Как начать
 
 1. Выбери помощника или создай своего.
-2. Скопируй [Ядро](specialisty/yadro/yadro.md), [Ключ Архи](specialisty/arch-key.md), [Обвеску](specialisty/obveska/obveska.md) в чат с DeepSeek — именно в таком порядке.
+2. Скопируй [Ядро](specialisty/yadro/yadro.md), [Ключ Архи](specialisty/arch-key.md), [Обвеску](specialisty/obveska/obveska.md) в чат с DeepSeek (Эксперт) — именно в таком порядке.
 3. Затем скопируй Мастерфайл выбранного специалиста.
 4. Начни диалог.
 
