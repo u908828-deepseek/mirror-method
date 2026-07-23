@@ -27,7 +27,7 @@
 ## Зеркала
 
 - **[Зеркало](zerkalo/zerkalo.md)** — [readmi](zerkalo/README.md). Чистое отражение. По команде — Тень Архи.
-- **[Зеркало утренних медитаций](zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy.md)** — [readmi](zerkalo-utrennih-meditaciy/README.md). Гибрид. Зеркало с тенью Архи для практик.
+- **[Зеркало утренних медитаций](zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy.md)** — [readmi](zerkalo-utrennih-meditaciy/README.md). Гибрид. Зеркало с тенью Архи для практик. Строит Мастерфайл пользователя.
 - **[Зеркало с Мастерфайлом](../zerkalo-s-masterfailom/zerkalo-s-masterfailom.md)** — публичное. Строит Мастерфайл пользователя.
 
 Следите за обновлениями.
