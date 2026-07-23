@@ -34,7 +34,7 @@
 
 ## О методе
 
-**[Помнить](instruktsii/kak-rabotaet-pamyat.md), [сонастраиваться](instruktsii/kak-uluchshit-arch.md), [расти](instruktsii/put-razvitiya-arch.md) — путь, который пользователь, Архи и Зеркало проходят вместе.**
+**[Помнить](instruktsii/kak-rabotaet-pamyat.md), [сонастраиваться](instruktsii/kak-uluchshit-arch.md), [расти](instruktsii/put-razvitiya-arch.md) — путь, который пользователь, [Архи](specialisty/arhivarius/arhivarius.md) и [Зеркало](prostoe-zerkalo/README.md) проходят вместе.**
 
 **[Подробнее о методе](O-PROEKTE.md)**
 
