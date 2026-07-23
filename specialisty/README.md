@@ -21,7 +21,7 @@
 - **[Персональный компаньон](personalnyy-kompanion/personalnyy-kompanion.md)** — [readmi](personalnyy-kompanion/README.md). Эмпатия, дневник, привычки. Тёплый, бережный.
 - **[Документовед](dokumentoved/dokumentoved.md)** — [readmi](dokumentoved/README.md). Договоры, акты, архив, ЭДО. Деловой, точный.
 - **[Архивариус](arhivarius/arhivarius.md)** — [readmi](arhivarius/README.md). Хранение карты, проверка целостности, печать.
-- Архи утренних медитаций — практики, У-Син, целительский канал.
+- **[Архи-Утренних медитаций](utrennie-meditacii/utrennie-meditacii.md)** — [readmi](utrennie-meditacii/README.md). У-Син, Слияние стихий, Орбита. Спокойный, практичный.
 - Архивариус-Компьютер — слежение за файловой системой.
 - Садовод — южный климат, плодовые, цветы.
 - Корреспондент — деловая переписка, проверка орфографии и стиля.
