@@ -1,6 +1,6 @@
 ### Цифровые помощники
 
-Основа специалиста — [сознание](specialisty/yadro/README.md) и [подсознание](specialisty/README.md).
+Основа [специалиста](specialisty/README.md) — [сознание](specialisty/yadro/README.md) и [подсознание](specialisty/README.md).
 
 **[Конструктор](specialisty/konstruktor/konstruktor.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md), [readmi](specialisty/konstruktor/README.md). Собери своего Архи под любую задачу.
 
