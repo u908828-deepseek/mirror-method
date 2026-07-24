@@ -21,6 +21,7 @@
 - **[Медицинский ассистент](../specialisty/medicinskiy-assistent/medicinskiy-assistent.md)** — здоровье, симптомы, аптечка, врачи.
 - **[Садовод](../specialisty/sadovod/sadovod.md)** — южный климат, плодовые, цветы, без химии.
 - **[Архи-Утренних медитаций](../specialisty/utrennie-meditacii/utrennie-meditacii.md)** — У-Син, Слияние стихий, Микрокосмическая орбита.
+- **[Зеркало утренних медитаций](../specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy.md)** — слушает, отражает, строит Мастерфайл. По команде — Тень Архи.
 
 ### Для технологий и творчества
 
