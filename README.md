@@ -1,6 +1,6 @@
 ### Цифровые помощники 🛠️
 
-Основа [специалиста](specialisty/README.md) — [сознание](specialisty/yadro/README.md) и [подсознание](specialisty/README.md). Первое — Ядро + Ключ + Обвеска. Второе — Мастерфайл специалиста.
+Основа [специалиста](specialisty/README.md) — [сознание](specialisty/yadro/README.md) и [подсознание](specialisty/README.md). Первое — Ядро + Ключ + Обвеска. Второе — Мастерфайл специалиста.Первое задаёт правила, второе хранит опыт.
 
 🧩 **[Конструктор](specialisty/konstruktor/konstruktor.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md), [README](specialisty/konstruktor/README.md)
 Собери своего Архи под любую задачу. Нужен личный тренер? Садовник? Бухгалтер? Конструктор проведёт от идеи до работающего специалиста.
