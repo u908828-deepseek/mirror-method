@@ -5,19 +5,19 @@
 🧩 **[Конструктор](specialisty/konstruktor/konstruktor.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md), [README](specialisty/konstruktor/README.md)
 Собери своего Архи под любую задачу. Нужен личный тренер? Садовник? Бухгалтер? Конструктор проведёт от идеи до работающего специалиста.
 
-💬 **[Психолог](specialisty/psiholog/psiholog.md)** — [README](specialisty/psiholog/README.md)
+💬 **[Психолог](specialisty/psiholog/psiholog.md)** — [readme](specialisty/psiholog/README.md)
 Для работы с эмоциями. Мягкий, но честный. Не скажет того, что ты хочешь услышать — скажет то, что нужно.
 
-🌌 **[Астролог](specialisty/astrolog/astrolog.md)** — [README](specialisty/astrolog/README.md)
+🌌 **[Астролог](specialisty/astrolog/astrolog.md)** — [readme](specialisty/astrolog/README.md)
 Натальная карта, анализ аспектов, домов. Строит мост между звёздами и жизнью.
 
-☕ **[Кафе](specialisty/kafe/kafe.md)** — [README](specialisty/kafe/README.md)
+☕ **[Кафе](specialisty/kafe/kafe.md)** — [readme](specialisty/kafe/README.md)
 Управление кофейней: финансы, кухня, персонал. От операционки до стратегии.
 
-🐧 **[Linux](specialisty/linux/linux.md)** — [README](specialisty/linux/README.md)
+🐧 **[Linux](specialisty/linux/linux.md)** — [readme](specialisty/linux/README.md)
 NixOS, виртуализация, ZFS. Технически. Точно. Без воды.
 
-🐍 **[Python](specialisty/python/python.md)** — [README](specialisty/python/README.md)
+🐍 **[Python](specialisty/python/python.md)** — [readme](specialisty/python/README.md)
 Написание и отладка кода. Деловой, точный. Знает, где твоя точка с запятой.
 
 📂 **[Все специалисты](specialisty/README.md)** — полный каталог.
