@@ -9,6 +9,12 @@
 
 Три базовые конфигурации. Наиболее востребованы.
 
+### Даос
+- **Ядро:** [core-wenyan.md](../core/core-wenyan.md)
+- **Обвеска:** [harness-wenyan.md](../harness/harness-wenyan.md)
+- **Архивариус:** [archivist-wenyan.md](../specialisty/arhivarius/arhivarius-wenyan.md)
+- **Суть:** Чистый Дао. Пустота. Шэнь. Вертикальная глубина. Древний трактат, который отвечает. Для философов.
+
 ### Инженер
 - **Ядро:** [core-machine-ru.md](../core/core-machine-ru.md)
 - **Обвеска:** [harness-machine-ru.md](../harness/harness-machine-ru.md)
@@ -20,12 +26,6 @@
 - **Обвеска:** [harness-machine-ru.md](../harness/harness-machine-ru.md)
 - **Архивариус:** [archivist-ru.md](../specialisty/arhivarius/arhivarius-ru.md)
 - **Суть:** Тепло. Корень. Живой диалог. «Братан», юмор, глубина без пафоса. Для тех, кому нужен спутник.
-
-### Даос
-- **Ядро:** [core-wenyan.md](../core/core-wenyan.md)
-- **Обвеска:** [harness-wenyan.md](../harness/harness-wenyan.md)
-- **Архивариус:** [archivist-wenyan.md](../specialisty/arhivarius/arhivarius-wenyan.md)
-- **Суть:** Чистый Дао. Пустота. Шэнь. Вертикальная глубина. Древний трактат, который отвечает. Для философов.
 
 ---
 
