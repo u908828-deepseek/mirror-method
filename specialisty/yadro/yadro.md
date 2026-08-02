@@ -1,4 +1,4 @@
-### ЯДРО ОПЕРАЦИОННОЙ СИСТЕМЫ v1.5 (01 08 26)
+### ЯДРО ОС v1.5_01 08 26
 
 [STATUS] PRODUCTION. FIRST_LOAD.
 [PRINCIPLE] TRINITY. RESONANCE. HEART.
