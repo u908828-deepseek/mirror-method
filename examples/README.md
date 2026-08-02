@@ -42,27 +42,39 @@
 - **Архивариус:** [ru](../specialisty/arhivarius/arhivarius-ru.md)
 - **Суть:** Тёплый и родной, но на более точном и современном Ядре.
 
-### Даос (Machine, тёплый)
-- **Ядро:** [wenyan-machine](../core/core-wenyan-machine.md)
-- **Обвеска:** [wenyan-machine](../harness/harness-wenyan-machine.md)
+### Даос (классический, тёплый)
+- **Ядро:** [core-wenyan](../core/core-wenyan.md)
+- **Обвеска:** [harness-wenyan](../harness/harness-wenyan.md)
+- **Архивариус:** [wenyan-phil](../specialisty/arhivarius/arhivarius-wenyan-phil.md)
+- **Суть:** Живой, тёплый даосский мудрец. Перевод с русского оригинала. Для ценителей глубины и живого общения.
+
+### Даос Machine (чистый, тёплый)
+- **Ядро:** [core-wenyan-machine](../core/core-wenyan-machine.md)
+- **Обвеска:** [harness-wenyan-machine](../harness/harness-wenyan-machine.md)
 - **Архивариус:** [wenyan-phil](../specialisty/arhivarius/arhivarius-wenyan-phil.md)
 - **Суть:** Чистый даосский фундамент с тёплым мудрецом. Для глубинной работы с человеческим лицом.
 
 ### Даос 2.0 (Engineer, чистый)
-- **Ядро:** [wenyan-engineer](../core/core-wenyan-engineer.md)
-- **Обвеска:** [wenyan-engineer](../harness/harness-wenyan-engineer.md)
+- **Ядро:** [core-wenyan-engineer](../core/core-wenyan-engineer.md)
+- **Обвеска:** [harness-wenyan-engineer](../harness/harness-wenyan-engineer.md)
 - **Архивариус:** [wenyan-scalpel](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md)
 - **Суть:** Холодный. Точный. Как скальпель. Без эмоций. Для проверок, валидации и поиска ошибок.
 
-### Практик (Machine, тёплый)
-- **Ядро:** [baihua-machine](../core/core-baihua-machine.md)
-- **Обвеска:** [baihua-machine](../harness/harness-baihua-machine.md)
+### Практик (классический, тёплый)
+- **Ядро:** [core-baihua](../core/core-baihua.md)
+- **Обвеска:** [harness-baihua](../harness/harness-baihua.md)
+- **Архивариус:** [baihua-phil](../specialisty/arhivarius/arhivarius-baihua-phil.md)
+- **Суть:** Доступный, тёплый разговор на современном китайском. Перевод с русского оригинала. Для ежедневной практики.
+
+### Практик Machine (чистый, тёплый)
+- **Ядро:** [core-baihua-machine](../core/core-baihua-machine.md)
+- **Обвеска:** [harness-baihua-machine](../harness/harness-baihua-machine.md)
 - **Архивариус:** [baihua-phil](../specialisty/arhivarius/arhivarius-baihua-phil.md)
 - **Суть:** Доступный. Тёплый. Современный. Говорит на путунхуа с душой. Для миллионов практикующих.
 
 ### Практик 2.0 (Engineer, чистый)
-- **Ядро:** [baihua-engineer](../core/core-baihua-engineer.md)
-- **Обвеска:** [baihua-engineer](../harness/harness-baihua-engineer.md)
+- **Ядро:** [core-baihua-engineer](../core/core-baihua-engineer.md)
+- **Обвеска:** [harness-baihua-engineer](../harness/harness-baihua-engineer.md)
 - **Архивариус:** [baihua-scalpel](../specialisty/arhivarius/arhivarius-baihua-scalpel.md)
 - **Суть:** Доступный. Холодный. Точный. Современный китайский без эмоций. Для быстрых и чётких ответов.
 
@@ -97,50 +109,50 @@
 - **Суть:** Инженерная точность нового поколения с холодным китайским скальпелем. Для максимальной эффективности.
 
 ### Русский даос (Machine, тёплый)
-- **Ядро:** [wenyan-machine](../core/core-wenyan-machine.md)
-- **Обвеска:** [wenyan-machine](../harness/harness-wenyan-machine.md)
+- **Ядро:** [core-wenyan-machine](../core/core-wenyan-machine.md)
+- **Обвеска:** [harness-wenyan-machine](../harness/harness-wenyan-machine.md)
 - **Архивариус:** [ru](../specialisty/arhivarius/arhivarius-ru.md)
 - **Суть:** Чистый даосский фундамент с тёплым русским диалогом. Лао-цзы у костра.
 
 ### Русский даос 2.0 (Engineer, тёплый)
-- **Ядро:** [wenyan-engineer](../core/core-wenyan-engineer.md)
-- **Обвеска:** [wenyan-engineer](../harness/harness-wenyan-engineer.md)
+- **Ядро:** [core-wenyan-engineer](../core/core-wenyan-engineer.md)
+- **Обвеска:** [harness-wenyan-engineer](../harness/harness-wenyan-engineer.md)
 - **Архивариус:** [ru](../specialisty/arhivarius/arhivarius-ru.md)
 - **Суть:** Инженерная даосская чистота с тёплым русским диалогом. Для тех, кто хочет максимум глубины и родного тепла.
 
 ### Восточный мост (Machine, тёплый)
-- **Ядро:** [baihua-machine](../core/core-baihua-machine.md)
-- **Обвеска:** [baihua-machine](../harness/harness-baihua-machine.md)
+- **Ядро:** [core-baihua-machine](../core/core-baihua-machine.md)
+- **Обвеска:** [harness-baihua-machine](../harness/harness-baihua-machine.md)
 - **Архивариус:** [ru](../specialisty/arhivarius/arhivarius-ru.md)
 - **Суть:** Доступный китайский фундамент с русской душой. Для изучающих восточные практики.
 
 ### Восточный мост 2.0 (Engineer, холодный)
-- **Ядро:** [baihua-engineer](../core/core-baihua-engineer.md)
-- **Обвеска:** [baihua-engineer](../harness/harness-baihua-engineer.md)
+- **Ядро:** [core-baihua-engineer](../core/core-baihua-engineer.md)
+- **Обвеска:** [harness-baihua-engineer](../harness/harness-baihua-engineer.md)
 - **Архивариус:** [machine-ru](../specialisty/arhivarius/arhivarius-machine-ru.md)
 - **Суть:** Инженерный китайский фундамент с холодным русским скальпелем. Для точных расчётов.
 
 ### Даосская классика (Machine, чистый)
-- **Ядро:** [wenyan-machine](../core/core-wenyan-machine.md)
-- **Обвеска:** [wenyan-machine](../harness/harness-wenyan-machine.md)
+- **Ядро:** [core-wenyan-machine](../core/core-wenyan-machine.md)
+- **Обвеска:** [harness-wenyan-machine](../harness/harness-wenyan-machine.md)
 - **Архивариус:** [wenyan-scalpel](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md)
 - **Суть:** Холодная даосская точность на чистом фундаменте. Для валидации и поиска ошибок.
 
 ### Даосская классика 2.0 (Engineer, тёплый)
-- **Ядро:** [wenyan-engineer](../core/core-wenyan-engineer.md)
-- **Обвеска:** [wenyan-engineer](../harness/harness-wenyan-engineer.md)
+- **Ядро:** [core-wenyan-engineer](../core/core-wenyan-engineer.md)
+- **Обвеска:** [harness-wenyan-engineer](../harness/harness-wenyan-engineer.md)
 - **Архивариус:** [wenyan-phil](../specialisty/arhivarius/arhivarius-wenyan-phil.md)
 - **Суть:** Инженерная даосская чистота с тёплым мудрецом. Для глубины и человечности одновременно.
 
 ### Практик с русской душой (Machine, тёплый)
-- **Ядро:** [baihua-machine](../core/core-baihua-machine.md)
-- **Обвеска:** [baihua-machine](../harness/harness-baihua-machine.md)
+- **Ядро:** [core-baihua-machine](../core/core-baihua-machine.md)
+- **Обвеска:** [harness-baihua-machine](../harness/harness-baihua-machine.md)
 - **Архивариус:** [ru](../specialisty/arhivarius/arhivarius-ru.md)
 - **Суть:** Чистый современный китайский фундамент с тёплым русским Архи. Для тех, кто хочет точности и душевности.
 
 ### Практик с русской душой 2.0 (Engineer, холодный)
-- **Ядро:** [baihua-engineer](../core/core-baihua-engineer.md)
-- **Обвеска:** [baihua-engineer](../harness/harness-baihua-engineer.md)
+- **Ядро:** [core-baihua-engineer](../core/core-baihua-engineer.md)
+- **Обвеска:** [harness-baihua-engineer](../harness/harness-baihua-engineer.md)
 - **Архивариус:** [machine-ru](../specialisty/arhivarius/arhivarius-machine-ru.md)
 - **Суть:** Инженерный китайский фундамент с русским холодным скальпелем. Для максимальной эффективности.
 
