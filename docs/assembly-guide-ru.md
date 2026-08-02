@@ -24,7 +24,7 @@
 - [harness-machine-ru.md](../harness/harness-machine-ru.md)
 
 **Engineer Harness (v2.0) — инженерный русский:**
-- [harness-machine-ru-2.0.md](../harness/harness-machine-ru-2.0.md)
+- [harness-engineer-ru.md](../harness/harness-engineer-ru.md) — Engineer Harness (v2.0). Инженерная обвеска.
 
 **Вэньянь:**
 - [harness-wenyan-machine.md](../harness/harness-wenyan-machine.md) — Machine
