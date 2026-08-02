@@ -7,7 +7,7 @@
 - [core-machine-ru.md](../core/core-machine-ru.md) — точность, инженерный резонанс
 
 **Engineer Core (v2.0) — инженерный русский:**
-- [core-machine-ru-2.0.md](../core/core-machine-ru-2.0.md) — рефлексия над языком, максимальная чистота
+- [core-engineer-ru.md](../core/core-engineer-ru.md) — Engineer Core (v2.0). Рефлексия над языком. Максимальная чистота.
 
 **Вэньянь (древнекитайский):**
 - [core-wenyan-machine.md](../core/core-wenyan-machine.md) — Machine (тёплый)
