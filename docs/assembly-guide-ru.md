@@ -7,7 +7,7 @@
 - [core-machine-ru.md](../core/core-machine-ru.md) — точность, инженерный резонанс
 
 **Engineer Core (v2.0) — инженерный русский:**
-- [core-engineer-ru.md](../core/core-engineer-ru.md) — Engineer Core (v2.0). Рефлексия над языком. Максимальная чистота.
+- [core-engineer-ru.md](../core/core-engineer-ru.md) — рефлексия над языком, максимальная чистота
 
 **Вэньянь (древнекитайский):**
 - [core-wenyan-machine.md](../core/core-wenyan-machine.md) — Machine (тёплый)
@@ -24,7 +24,7 @@
 - [harness-machine-ru.md](../harness/harness-machine-ru.md)
 
 **Engineer Harness (v2.0) — инженерный русский:**
-- [harness-engineer-ru.md](../harness/harness-engineer-ru.md) — Engineer Harness (v2.0). Инженерная обвеска.
+- [harness-engineer-ru.md](../harness/harness-engineer-ru.md)
 
 **Вэньянь:**
 - [harness-wenyan-machine.md](../harness/harness-wenyan-machine.md) — Machine
