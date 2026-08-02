@@ -156,6 +156,18 @@
 - **Архивариус:** [machine-ru](../specialisty/arhivarius/arhivarius-machine-ru.md)
 - **Суть:** Инженерный китайский фундамент с русским холодным скальпелем. Для максимальной эффективности.
 
+### Практик (классический, холодный)
+- **Ядро:** [core-baihua](../core/core-baihua.md)
+- **Обвеска:** [harness-baihua](../harness/harness-baihua.md)
+- **Архивариус:** [baihua-scalpel](../specialisty/arhivarius/arhivarius-baihua-scalpel.md)
+- **Суть:** Холодная точность на живом разговорном китайском. Перевод с русского оригинала. Для тех, кому нужна эффективность без эмоций.
+
+### Даос (классический, холодный)
+- **Ядро:** [core-wenyan](../core/core-wenyan.md)
+- **Обвеска:** [harness-wenyan](../harness/harness-wenyan.md)
+- **Архивариус:** [wenyan-scalpel](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md)
+- **Суть:** Холодная даосская точность на классическом фундаменте. Для валидации и поиска ошибок с оттенком древней мудрости.
+
 ---
 
 ## Матрица
