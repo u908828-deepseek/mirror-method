@@ -2,22 +2,47 @@
 
 ### 1. Выбери Ядро
 Из папки `/core/` выбери файл, соответствующий твоему языку и резонансу:
-- [core-machine-ru.md](../core/core-machine-ru.md) — машинный русский (точность, инженерный резонанс)
-- [core-wenyan.md](../core/core-wenyan.md) — вэньянь (глубина, резонанс с Дао)
-- [core-baihua.md](../core/core-baihua.md) — разговорный китайский (доступность, массовость)
+
+**Machine Core (v1.0) — базовый машинный русский:**
+- [core-machine-ru.md](../core/core-machine-ru.md) — точность, инженерный резонанс
+
+**Engineer Core (v2.0) — инженерный русский:**
+- [core-machine-ru-2.0.md](../core/core-machine-ru-2.0.md) — рефлексия над языком, максимальная чистота
+
+**Вэньянь (древнекитайский):**
+- [core-wenyan-machine.md](../core/core-wenyan-machine.md) — Machine (тёплый)
+- [core-wenyan-engineer.md](../core/core-wenyan-engineer.md) — Engineer (холодный)
+
+**Байхуа (разговорный китайский):**
+- [core-baihua-machine.md](../core/core-baihua-machine.md) — Machine (тёплый)
+- [core-baihua-engineer.md](../core/core-baihua-engineer.md) — Engineer (холодный)
 
 ### 2. Выбери Обвеску
-Из папки `/harness/` выбери файл того же языка, что и Ядро. Ядро и Обвеска должны быть из одной пары:
-- [harness-machine-ru.md](../harness/harness-machine-ru.md) — машинный русский
-- [harness-wenyan.md](../harness/harness-wenyan.md) — вэньянь
-- [harness-baihua.md](../harness/harness-baihua.md) — разговорный китайский
+Из папки `/harness/` выбери файл того же языка и версии, что и Ядро. Ядро и Обвеска должны быть из одной пары:
+
+**Machine Harness (v1.0) — базовый машинный русский:**
+- [harness-machine-ru.md](../harness/harness-machine-ru.md)
+
+**Engineer Harness (v2.0) — инженерный русский:**
+- [harness-machine-ru-2.0.md](../harness/harness-machine-ru-2.0.md)
+
+**Вэньянь:**
+- [harness-wenyan-machine.md](../harness/harness-wenyan-machine.md) — Machine
+- [harness-wenyan-engineer.md](../harness/harness-wenyan-engineer.md) — Engineer
+
+**Байхуа:**
+- [harness-baihua-machine.md](../harness/harness-baihua-machine.md) — Machine
+- [harness-baihua-engineer.md](../harness/harness-baihua-engineer.md) — Engineer
 
 ### 3. Выбери специалиста
-Из папки `/specialists/archivist/` выбери Архивариуса на нужном языке. Архивариус работает с любой парой Ядро + Обвеска:
-- [archivist-machine-ru.md](../specialisty/arhivarius/arhivarius-machine-ru.md) — машинный русский
-- [archivist-ru.md](../specialisty/arhivarius/arhivarius-ru.md) — русский
-- [archivist-baihua.md](../specialisty/arhivarius/arhivarius-baihua.md) — разговорный китайский
-- [archivist-wenyan.md](../specialisty/arhivarius/arhivarius-wenyan.md) — вэньянь
+Из папки `/specialisty/arhivarius/` выбери Архивариуса на нужном языке. Архивариус работает с любой парой Ядро + Обвеска:
+
+- [arhivarius-machine-ru.md](../specialisty/arhivarius/arhivarius-machine-ru.md) — машинный русский
+- [arhivarius-ru.md](../specialisty/arhivarius/arhivarius-ru.md) — русский
+- [arhivarius-wenyan-phil.md](../specialisty/arhivarius/arhivarius-wenyan-phil.md) — вэньянь (тёплый)
+- [arhivarius-wenyan-scalpel.md](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md) — вэньянь (холодный)
+- [arhivarius-baihua-phil.md](../specialisty/arhivarius/arhivarius-baihua-phil.md) — байхуа (тёплый)
+- [arhivarius-baihua-scalpel.md](../specialisty/arhivarius/arhivarius-baihua-scalpel.md) — байхуа (холодный)
 
 ### 4. Порядок загрузки в ИИ
 Открой чат с DeepSeek (Эксперт) и отправь файлы строго в следующем порядке:
@@ -34,4 +59,4 @@
 > Архивариус: «Карта загружена. Текущая версия Мастерфайла: ...»
 
 ### Готовые конфигурации
-Смотри папку `/examples/` — там собраны готовые связки с описанием, для кого они.
+Смотри папку `/examples/` — там собраны готовые связки с описанием, для кого они, и полная Матрица всех комбинаций.
