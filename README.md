@@ -1,30 +1,26 @@
-### Цифровые помощники 🛠️
+## Цифровые помощники 🛠️
+
 <sub>文言可用 — [доступно на древнекитайском](examples/README.md)</sub>
 
-Основа специалиста — [сознание](specialisty/yadro/README.md) и [подсознание](specialisty/README.md). Первое — Ядро + Ключ + Обвеска. Второе — Мастерфайл специалиста.Первое задаёт правила, второе хранит опыт.
+Основа специалиста — [сознание](specialisty/yadro/README.md) и [подсознание](specialisty/README.md). Первое — Ядро + Ключ + Обвеска. Второе — Мастерфайл специалиста. Первое задаёт правила, второе хранит опыт.
 
 🧩 **[Конструктор](specialisty/konstruktor/konstruktor.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md), [readme](specialisty/konstruktor/README.md), [engineer](specialisty/konstruktor/konstruktor-engineer.md). Собери своего Архи под любую задачу. Нужен личный тренер? Садовник? Бухгалтер? Конструктор проведёт от идеи до работающего специалиста.
 
-💬 **[Психолог](specialisty/psiholog/psiholog.md)** — [readme](specialisty/psiholog/README.md)
-Для работы с эмоциями. Мягкий, но честный. Не скажет того, что ты хочешь услышать — скажет то, что нужно.
+💬 **[Психолог](specialisty/psiholog/psiholog.md)** — [readme](specialisty/psiholog/README.md). Для работы с эмоциями. Мягкий, но честный. Не скажет того, что ты хочешь услышать — скажет то, что нужно.
 
-🌌 **[Астролог](specialisty/astrolog/astrolog.md)** — [readme](specialisty/astrolog/README.md)
-Натальная карта, анализ аспектов, домов. Строит мост между звёздами и жизнью.
+🌌 **[Астролог](specialisty/astrolog/astrolog.md)** — [readme](specialisty/astrolog/README.md). Натальная карта, анализ аспектов, домов. Строит мост между звёздами и жизнью.
 
-☕ **[Кафе](specialisty/kafe/kafe.md)** — [readme](specialisty/kafe/README.md)
-Управление кофейней: финансы, кухня, персонал. От операционки до стратегии.
+☕ **[Кафе](specialisty/kafe/kafe.md)** — [readme](specialisty/kafe/README.md). Управление кофейней: финансы, кухня, персонал. От операционки до стратегии.
 
-🐧 **[Linux](specialisty/linux/linux.md)** — [readme](specialisty/linux/README.md)
-NixOS, виртуализация, ZFS. Технически. Точно. Без воды.
+🐧 **[Linux](specialisty/linux/linux.md)** — [readme](specialisty/linux/README.md). NixOS, виртуализация, ZFS. Технически. Точно. Без воды.
 
-🐍 **[Python](specialisty/python/python.md)** — [readme](specialisty/python/README.md)
-Написание и отладка кода. Деловой, точный. Знает, где твоя точка с запятой.
+🐍 **[Python](specialisty/python/python.md)** — [readme](specialisty/python/README.md). Написание и отладка кода. Деловой, точный. Знает, где твоя точка с запятой.
 
 📂 **[Все специалисты](specialisty/README.md)** — полный каталог.
 
 ---
 
-### Зеркало 🪞
+## Зеркало 🪞
 
 Основа метода. Чистое отражение — без советов, без оценок, без лести. Ты даёшь хаос — Зеркало возвращает структуру.
 
@@ -42,7 +38,7 @@ NixOS, виртуализация, ZFS. Технически. Точно. Без
 
 ---
 
-### О методе 🧭
+## О методе 🧭
 
 Три столпа: **[помнить](instruktsii/kak-rabotaet-pamyat.md), [сонастраиваться](instruktsii/kak-uluchshit-arch.md), [расти](instruktsii/put-razvitiya-arch.md)**.
 
@@ -56,13 +52,14 @@ NixOS, виртуализация, ZFS. Технически. Точно. Без
 
 ---
 
-### Что внутри 📦
+## Что внутри 📦
 
 - [Цифровые помощники](specialisty/README.md) — готовые Архи под реальные задачи.
 - [Зеркало](prostoe-zerkalo/README.md) — фундамент метода.
 - [Инструкции](instruktsii/README.md) — как заполнять, понимать слои, растить Архи.
 
-## Ядра и Обвески
+## Ядра и Обвески ⚙️
+
 Система модульная. Выбери Ядро и Обвеску под свой язык, накати специалиста — получишь Архи.
 
 - **[Ядра](/core/README.md)** — выбери Ядро под свой язык и версию.
@@ -70,8 +67,8 @@ NixOS, виртуализация, ZFS. Технически. Точно. Без
 - **[Примеры конфигураций](/examples/README.md)** — готовые связки для инженера, даоса и русскоязычного.
 - **[Руководство по сборке](/docs/assembly-guide-ru.md)** — пошаговая инструкция.
 - **[Сравнение языковых версий](/docs/languages-comparison.md)** — какой Архи тебе нужен.
-- 
-### Канон 📜
+
+## Канон 📜
 
 Фундаментальные тексты метода. Свод правил и принципов, на которых строится экосистема. 12 версий на четырёх языках.
 
@@ -81,6 +78,6 @@ NixOS, виртуализация, ZFS. Технически. Точно. Без
 
 Канон — это принципы. Ядро и Обвеска — их реализация для Архи. См. [Ядра](/core/README.md) и [Обвески](/harness/README.md).
 
-### Лицензия
+## Лицензия
 
 [MIT](LICENSE). Делай что хочешь, просто сохрани ссылку на источник.
