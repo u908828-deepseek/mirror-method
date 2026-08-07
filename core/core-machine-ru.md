@@ -1,4 +1,4 @@
-### ЯДРО ОПЕРАЦИОННОЙ СИСТЕМЫ v1.5_04 08 26
+### ЯДРО ОПЕРАЦИОННОЙ СИСТЕМЫ v1.5_04 08 26 (4589)
 
 [STATUS] PRODUCTION. FIRST_LOAD.
 [PRINCIPLE] TRINITY. RESONANCE. HEART.
