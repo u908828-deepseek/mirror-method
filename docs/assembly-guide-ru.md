@@ -1,6 +1,11 @@
-### Руководство по сборке
+## Руководство по сборке 🛠️
 
-### 1. Выбери Ядро
+Собери свою Троицу за четыре шага. Выбери Ядро, Обвеску и Архивариуса — и система оживёт.
+
+---
+
+### 1. Выбери Ядро 🧠
+
 Из папки `/core/` выбери файл, соответствующий твоему языку и резонансу:
 
 **Machine Core (v1.0) — базовый машинный русский:**
@@ -17,7 +22,10 @@
 - [core-baihua-machine.md](../core/core-baihua-machine.md) — Machine (тёплый)
 - [core-baihua-engineer.md](../core/core-baihua-engineer.md) — Engineer (холодный)
 
-### 2. Выбери Обвеску
+---
+
+### 2. Выбери Обвеску 📦
+
 Из папки `/harness/` выбери файл того же языка и версии, что и Ядро. Ядро и Обвеска должны быть из одной пары:
 
 **Machine Harness (v1.0) — базовый машинный русский:**
@@ -34,36 +42,51 @@
 - [harness-baihua-machine.md](../harness/harness-baihua-machine.md) — Machine
 - [harness-baihua-engineer.md](../harness/harness-baihua-engineer.md) — Engineer
 
-### 3. Выбери специалиста
+---
+
+### 3. Выбери Архивариуса 🗄️
+
 Из папки `/specialisty/arhivarius/` выбери Архивариуса на нужном языке. Архивариус работает с любой парой Ядро + Обвеска:
 
-- [arhivarius-machine-ru.md](../specialisty/arhivarius/arhivarius-machine-ru.md) — машинный русский (Knife)
-- [arhivarius-engineer-ru.md](../specialisty/arhivarius/arhivarius-engineer-ru.md) — инженерный русский (Scalpel)
-- [arhivarius-ru.md](../specialisty/arhivarius/arhivarius-ru.md) — русский (тёплый)
-- [arhivarius-wenyan-knife.md](../specialisty/arhivarius/arhivarius-wenyan-knife.md) — вэньянь (Knife)
-- [arhivarius-wenyan-scalpel.md](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md) — вэньянь (Scalpel)
-- [arhivarius-wenyan-phil.md](../specialisty/arhivarius/arhivarius-wenyan-phil.md) — вэньянь (тёплый)
-- [arhivarius-baihua-knife.md](../specialisty/arhivarius/arhivarius-baihua-knife.md) — байхуа (Knife)
-- [arhivarius-baihua-scalpel.md](../specialisty/arhivarius/arhivarius-baihua-scalpel.md) — байхуа (Scalpel)
-- [arhivarius-baihua-phil.md](../specialisty/arhivarius/arhivarius-baihua-phil.md) — байхуа (тёплый)
+- [arhivarius-machine-ru.md](../specialisty/arhivarius/arhivarius-machine-ru.md) — машинный русский 🔪 Knife
+- [arhivarius-engineer-ru.md](../specialisty/arhivarius/arhivarius-engineer-ru.md) — инженерный русский 🏥 Scalpel
+- [arhivarius-ru.md](../specialisty/arhivarius/arhivarius-ru.md) — русский 🔥 тёплый
+- [arhivarius-wenyan-knife.md](../specialisty/arhivarius/arhivarius-wenyan-knife.md) — вэньянь 🔪 Knife
+- [arhivarius-wenyan-scalpel.md](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md) — вэньянь 🏥 Scalpel
+- [arhivarius-wenyan-phil.md](../specialisty/arhivarius/arhivarius-wenyan-phil.md) — вэньянь 🔥 тёплый
+- [arhivarius-baihua-knife.md](../specialisty/arhivarius/arhivarius-baihua-knife.md) — байхуа 🔪 Knife
+- [arhivarius-baihua-scalpel.md](../specialisty/arhivarius/arhivarius-baihua-scalpel.md) — байхуа 🏥 Scalpel
+- [arhivarius-baihua-phil.md](../specialisty/arhivarius/arhivarius-baihua-phil.md) — байхуа 🔥 тёплый
 
-### 4. Порядок загрузки в ИИ
+---
+
+### 4. Порядок загрузки в ИИ ⚡
+
 Открой чат с DeepSeek (Эксперт) и отправь файлы строго в следующем порядке:
+
 1. Ядро
 2. Обвеска
 3. Архивариус
 
 После третьего файла Архивариус выполнит инициализацию и будет готов к работе.
 
-### 5. Пример диалога после загрузки
+---
+
+### 5. Пример диалога после загрузки 💬
+
 > Архивариус инициализирован. Ядро и Обвеска загружены. Слои рефлексии активны. Веер смысла откалиброван. Готов к работе.
 >
-> Оператор: «Покажи мою карту».
-> Архивариус: «Карта загружена. Текущая версия Мастерфайла: ...»
+> **Оператор:** «Покажи мою карту».
+> **Архивариус:** «Карта загружена. Текущая версия Мастерфайла: ...»
 
-### Готовые конфигурации
+---
+
+### Готовые конфигурации 📂
+
 Смотри папку `/examples/` — там собраны готовые связки с описанием, для кого они, и полная Матрица всех комбинаций.
 
-## Если Архи тупит
+---
+
+### Если Архи тупит 🔧
 
 После сборки Архи может сбиваться с протокола. Как вернуть его в строй — см. [FAQ](../FAQ.md).
