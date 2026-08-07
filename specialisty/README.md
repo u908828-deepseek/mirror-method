@@ -20,7 +20,7 @@
 - 🏪 **[Ритейл-ассистент](riteyl-assistent/riteyl-assistent.md)** — [readmi](riteyl-assistent/README.md). Магазин, запасы, выкладка, касса.
 - 💙 **[Персональный компаньон](personalnyy-kompanion/personalnyy-kompanion.md)** — [readmi](personalnyy-kompanion/README.md). Эмпатия, дневник, привычки.
 - 📄 **[Документовед](dokumentoved/dokumentoved.md)** — [readmi](dokumentoved/README.md). Договоры, акты, архив, ЭДО.
-- 🗄️ **[Архивариус](arhivarius/arhivarius.md)** — [readmi](arhivarius/README.md). Хранение карты, проверка целостности, печать.
+- 🗄️ **[Архивариус](arhivarius/arhivarius.md)** — [readmi](arhivarius/README.md), [engineer](arhivarius/arhivarius-engineer-ru.md). Хранение карты, проверка целостности, печать.
 - ☀️ **[Архи-Утренних медитаций](utrennie-meditacii/utrennie-meditacii.md)** — [readmi](utrennie-meditacii/README.md). У-Син, Слияние стихий, Орбита.
 - 🌳 **[Садовод](sadovod/sadovod.md)** — [readmi](sadovod/README.md). Южный климат, плодовые, цветы.
 
