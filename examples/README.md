@@ -38,14 +38,14 @@
 
 Базовые конфигурации. Наиболее востребованы.
 
-### Инженер (Machine) 🔧
+### Инженер (Machine) 🔧 — русский
 - **Ядро:** [Machine Core](../core/core-machine-ru.md)
 - **Обвеска:** [Machine Harness](../harness/harness-machine-ru.md)
 - **Архивариус:** [machine-ru](../specialisty/arhivarius/arhivarius-machine-ru.md)
 - **Суть:** чистая инженерия. Точность. Структура. Протоколы. Ничего лишнего. Отлаженный механизм. Для инженеров, астрологов, любителей ZET.
 - **Режим:** ❄️ Холодный.
 
-### Инженер 2.0 (Engineer) 🔬
+### Инженер 2.0 (Engineer) 🔬 — русский
 - **Ядро:** [Engineer Core](../core/core-engineer-ru.md)
 - **Обвеска:** [Engineer Harness](../harness/harness-engineer-ru.md)
 - **Архивариус:** [engineer-ru](../specialisty/arhivarius/arhivarius-engineer-ru.md)
@@ -65,6 +65,20 @@
 - **Архивариус:** [ru](../specialisty/arhivarius/arhivarius-ru.md)
 - **Суть:** тёплый и родной, но на более точном и современном Ядре.
 - **Режим:** 🔥 Тёплый.
+
+### English Engineer (Machine) ❄️
+- **Ядро:** [Machine Core EN](../core/core-machine-en.md)
+- **Обвеска:** [Machine Harness EN](../harness/harness-machine-en.md)
+- **Архивариус:** [machine-ru](../specialisty/arhivarius/arhivarius-machine-ru.md) или холодный англоязычный аналог
+- **Суть:** чистая инженерия на английском. Точность, структура, протоколы. Для международной работы.
+- **Режим:** ❄️ Холодный.
+
+### English Engineer 2.0 (Engineer) ❄️
+- **Ядро:** [Engineer Core EN](../core/core-engineer-en.md)
+- **Обвеска:** [Engineer Harness EN](../harness/harness-engineer-en.md)
+- **Архивариус:** [engineer-ru](../specialisty/arhivarius/arhivarius-engineer-ru.md) или холодный англоязычный аналог
+- **Суть:** инженерная точность нового поколения на английском. Для максимальной чистоты и строгости.
+- **Режим:** ❄️ Холодный.
 
 ### Практик (классический, холодный) 🀄
 - **Ядро:** [core-baihua](../core/core-baihua.md)
@@ -220,8 +234,10 @@
 
 | Ядро+Обвеска ↓ / Архи → | 🔪 machine-ru | 🏥 engineer-ru | 🔥 ru | 🔪 baihua-knife | 🏥 baihua-scalpel | 🔥 baihua-phil | 🔪 wenyan-knife | 🏥 wenyan-scalpel | 🔥 wenyan-phil |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| **Machine** | Инженер | — | Русский | — | — | Билингв (тёплый) | — | — | Инженер+Дао (тёплый) |
-| **Engineer** | — | Инженер 2.0 | Русский 2.0 | — | — | Билингв 2.0 (тёплый) | — | — | Инженер 2.0+Дао (тёплый) |
+| **Machine (ру)** | Инженер | — | Русский | — | — | Билингв (тёплый) | — | — | Инженер+Дао (тёплый) |
+| **Engineer (ру)** | — | Инженер 2.0 | Русский 2.0 | — | — | Билингв 2.0 (тёплый) | — | — | Инженер 2.0+Дао (тёплый) |
+| **Machine (en)** | English Engineer | — | English Engineer + ru | — | — | English Engineer + baihua-phil | — | — | English Engineer + wenyan-phil |
+| **Engineer (en)** | — | English Engineer 2.0 | English Engineer 2.0 + ru | — | — | English Engineer 2.0 + baihua-phil | — | — | English Engineer 2.0 + wenyan-phil |
 | **baihua** | — | — | — | Практик | — | Практик (тёплый) | — | — | — |
 | **baihua-machine** | — | — | Восточный мост (тёплый) | Практик Machine | — | Практик Machine (тёплый) | — | — | — |
 | **baihua-engineer** | — | — | — | — | Практик 2.0 | — | — | — | — |
@@ -230,3 +246,6 @@
 | **wenyan-engineer** | — | — | Русский даос 2.0 (тёплый) | — | — | — | — | Даос 2.0 | — |
 
 Каждая ячейка работает. Заполненные — проверенные комбинации. Пустые — поле для твоих экспериментов. Собирай под себя.
+```
+
+---
