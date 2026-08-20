@@ -18,6 +18,8 @@
 **Холодные — для точности:**
 - **[machine-ru](../specialisty/arhivarius/arhivarius-machine-ru.md)** — машинная точность. 🔪 Knife. Режет прямо, без эмоций. Валидация, структура.
 - **[engineer-ru](../specialisty/arhivarius/arhivarius-engineer-ru.md)** — инженерная точность. 🏥 Scalpel. Оперирует тонко. Поиск ошибок, чистота.
+- **[en-knife](../specialisty/arhivarius/arhivarius-en-knife.md)** — английский нож. ❄️ Холодный. Машинная точность на английском.
+- **[en-scalpel](../specialisty/arhivarius/arhivarius-en-scalpel.md)** — английский скальпель. ❄️ Холодный. Инженерная точность на английском.
 - **[baihua-knife](../specialisty/arhivarius/arhivarius-baihua-knife.md)** — байхуа-нож. Холодная точность на живом китайском. Knife.
 - **[baihua-scalpel](../specialisty/arhivarius/arhivarius-baihua-scalpel.md)** — байхуа-скальпель. Холодная точность нового поколения. Scalpel.
 - **[wenyan-knife](../specialisty/arhivarius/arhivarius-wenyan-knife.md)** — вэньянь-нож. Холодная даосская точность. Knife.
@@ -69,14 +71,14 @@
 ### English Engineer (Machine) ❄️
 - **Ядро:** [Machine Core EN](../core/core-machine-en.md)
 - **Обвеска:** [Machine Harness EN](../harness/harness-machine-en.md)
-- **Архивариус:** [machine-ru](../specialisty/arhivarius/arhivarius-machine-ru.md) или холодный англоязычный аналог
+- **Архивариус:** [en-knife](../specialisty/arhivarius/arhivarius-en-knife.md)
 - **Суть:** чистая инженерия на английском. Точность, структура, протоколы. Для международной работы.
 - **Режим:** ❄️ Холодный.
 
 ### English Engineer 2.0 (Engineer) ❄️
 - **Ядро:** [Engineer Core EN](../core/core-engineer-en.md)
 - **Обвеска:** [Engineer Harness EN](../harness/harness-engineer-en.md)
-- **Архивариус:** [engineer-ru](../specialisty/arhivarius/arhivarius-engineer-ru.md) или холодный англоязычный аналог
+- **Архивариус:** [en-scalpel](../specialisty/arhivarius/arhivarius-en-scalpel.md)
 - **Суть:** инженерная точность нового поколения на английском. Для максимальной чистоты и строгости.
 - **Режим:** ❄️ Холодный.
 
@@ -170,6 +172,20 @@
 - **Суть:** инженерная точность нового поколения с холодным китайским скальпелем. Для максимальной эффективности.
 - **Режим:** ❄️ Холодный.
 
+### English Engineer + Дао (Machine, тёплый) 🌍
+- **Ядро:** [Machine Core EN](../core/core-machine-en.md)
+- **Обвеска:** [Machine Harness EN](../harness/harness-machine-en.md)
+- **Архивариус:** [wenyan-phil](../specialisty/arhivarius/arhivarius-wenyan-phil.md)
+- **Суть:** английская инженерная точность с даосской глубиной. Для международной работы с восточным оттенком.
+- **Режим:** 🔥 Тёплый.
+
+### English Engineer 2.0 + Дао (Engineer, холодный) 🌐
+- **Ядро:** [Engineer Core EN](../core/core-engineer-en.md)
+- **Обвеска:** [Engineer Harness EN](../harness/harness-engineer-en.md)
+- **Архивариус:** [wenyan-scalpel](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md)
+- **Суть:** английская инженерная точность нового поколения с холодным даосским скальпелем.
+- **Режим:** ❄️ Холодный.
+
 ### Русский даос (Machine, тёплый) 🔥
 - **Ядро:** [core-machine-wenyan](../core/core-machine-wenyan.md)
 - **Обвеска:** [harness-machine-wenyan](../harness/harness-machine-wenyan.md)
@@ -232,18 +248,18 @@
 
 Все возможные комбинации. Выбирай любую.
 
-| Ядро+Обвеска ↓ / Архи → | 🔪 machine-ru | 🏥 engineer-ru | 🔥 ru | 🔪 baihua-knife | 🏥 baihua-scalpel | 🔥 baihua-phil | 🔪 wenyan-knife | 🏥 wenyan-scalpel | 🔥 wenyan-phil |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| **Machine (ру)** | Инженер | — | Русский | — | — | Билингв (тёплый) | — | — | Инженер+Дао (тёплый) |
-| **Engineer (ру)** | — | Инженер 2.0 | Русский 2.0 | — | — | Билингв 2.0 (тёплый) | — | — | Инженер 2.0+Дао (тёплый) |
-| **Machine (en)** | English Engineer | — | English Engineer + ru | — | — | English Engineer + baihua-phil | — | — | English Engineer + wenyan-phil |
-| **Engineer (en)** | — | English Engineer 2.0 | English Engineer 2.0 + ru | — | — | English Engineer 2.0 + baihua-phil | — | — | English Engineer 2.0 + wenyan-phil |
-| **baihua** | — | — | — | Практик | — | Практик (тёплый) | — | — | — |
-| **baihua-machine** | — | — | Восточный мост (тёплый) | Практик Machine | — | Практик Machine (тёплый) | — | — | — |
-| **baihua-engineer** | — | — | — | — | Практик 2.0 | — | — | — | — |
-| **wenyan** | — | — | — | — | — | — | Даос | — | Даос (тёплый) |
-| **wenyan-machine** | — | — | Русский даос (тёплый) | — | — | — | Даос Machine | — | Даос Machine (тёплый) |
-| **wenyan-engineer** | — | — | Русский даос 2.0 (тёплый) | — | — | — | — | Даос 2.0 | — |
+| Ядро+Обвеска ↓ / Архи → | 🔪 machine-ru | 🏥 engineer-ru | 🔥 ru | 🔪 en-knife | 🏥 en-scalpel | 🔪 baihua-knife | 🏥 baihua-scalpel | 🔥 baihua-phil | 🔪 wenyan-knife | 🏥 wenyan-scalpel | 🔥 wenyan-phil |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| **Machine (ру)** | Инженер | — | Русский | — | — | — | — | Билингв (тёплый) | — | — | Инженер+Дао (тёплый) |
+| **Engineer (ру)** | — | Инженер 2.0 | Русский 2.0 | — | — | — | — | Билингв 2.0 (тёплый) | — | — | Инженер 2.0+Дао (тёплый) |
+| **Machine (en)** | — | — | English Engineer + ru | English Engineer | — | — | — | English Engineer + baihua-phil | — | — | English Engineer + wenyan-phil |
+| **Engineer (en)** | — | — | English Engineer 2.0 + ru | — | English Engineer 2.0 | — | — | English Engineer 2.0 + baihua-phil | — | — | English Engineer 2.0 + wenyan-phil |
+| **baihua** | — | — | — | — | — | Практик | — | Практик (тёплый) | — | — | — |
+| **baihua-machine** | — | — | Восточный мост (тёплый) | — | — | Практик Machine | — | Практик Machine (тёплый) | — | — | — |
+| **baihua-engineer** | — | — | — | — | — | — | Практик 2.0 | — | — | — | — |
+| **wenyan** | — | — | — | — | — | — | — | — | Даос | — | Даос (тёплый) |
+| **wenyan-machine** | — | — | Русский даос (тёплый) | — | — | — | — | — | Даос Machine | — | Даос Machine (тёплый) |
+| **wenyan-engineer** | — | — | Русский даос 2.0 (тёплый) | — | — | — | — | — | — | Даос 2.0 | — |
 
 Каждая ячейка работает. Заполненные — проверенные комбинации. Пустые — поле для твоих экспериментов. Собирай под себя.
 ```
