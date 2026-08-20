@@ -6,6 +6,10 @@
 - [harness-machine-ru.md](harness-machine-ru.md) — Machine (v1.0). Базовая версия.
 - [harness-engineer-ru.md](harness-engineer-ru.md) — Engineer (v2.0). Инженерная версия.
 
+### Английский
+- [harness-machine-en.md](harness-machine-en.md) — Machine (v1.0). Машинная обвеска на английском.
+- [harness-engineer-en.md](harness-engineer-en.md) — Engineer (v2.0). Инженерная обвеска на английском.
+
 ### Байхуа (разговорный китайский)
 - [harness-baihua.md](harness-baihua.md) — базовый (тёплый, с русского)
 - [harness-machine-baihua.md](harness-machine-baihua.md) — с машинного v1.0
