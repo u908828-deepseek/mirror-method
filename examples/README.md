@@ -16,14 +16,14 @@
 ## 🗄️ Архивариусы
 
 **Холодные — для точности:**
-- **[machine-ru](../specialisty/arhivarius/arhivarius-machine-ru.md)** — машинная точность. 🔪 Knife. Режет прямо, без эмоций. Валидация, структура.
-- **[engineer-ru](../specialisty/arhivarius/arhivarius-engineer-ru.md)** — инженерная точность. 🏥 Scalpel. Оперирует тонко. Поиск ошибок, чистота.
-- **[en-knife](../specialisty/arhivarius/arhivarius-en-knife.md)** — английский нож. ❄️ Холодный. Машинная точность на английском.
-- **[en-scalpel](../specialisty/arhivarius/arhivarius-en-scalpel.md)** — английский скальпель. ❄️ Холодный. Инженерная точность на английском.
-- **[baihua-knife](../specialisty/arhivarius/arhivarius-baihua-knife.md)** — байхуа-нож. Холодная точность на живом китайском. Knife.
-- **[baihua-scalpel](../specialisty/arhivarius/arhivarius-baihua-scalpel.md)** — байхуа-скальпель. Холодная точность нового поколения. Scalpel.
-- **[wenyan-knife](../specialisty/arhivarius/arhivarius-wenyan-knife.md)** — вэньянь-нож. Холодная даосская точность. Knife.
-- **[wenyan-scalpel](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md)** — вэньянь-скальпель. Холодная даосская чистота. Scalpel.
+- **[ru-knife](../specialisty/arhivarius/arhivarius-ru-knife.md)** — русский нож. 🔪 Машинная точность. Режет прямо, без эмоций.
+- **[ru-scalpel](../specialisty/arhivarius/arhivarius-ru-scalpel.md)** — русский скальпель. 🏥 Инженерная точность. Оперирует тонко.
+- **[en-knife](../specialisty/arhivarius/arhivarius-en-knife.md)** — английский нож. 🔪 Холодный. Машинная точность на английском.
+- **[en-scalpel](../specialisty/arhivarius/arhivarius-en-scalpel.md)** — английский скальпель. 🏥 Холодный. Инженерная точность на английском.
+- **[baihua-knife](../specialisty/arhivarius/arhivarius-baihua-knife.md)** — байхуа-нож. 🔪 Холодная точность на живом китайском.
+- **[baihua-scalpel](../specialisty/arhivarius/arhivarius-baihua-scalpel.md)** — байхуа-скальпель. 🏥 Холодная точность нового поколения.
+- **[wenyan-knife](../specialisty/arhivarius/arhivarius-wenyan-knife.md)** — вэньянь-нож. 🔪 Холодная даосская точность.
+- **[wenyan-scalpel](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md)** — вэньянь-скальпель. 🏥 Холодная даосская чистота.
 
 **Тёплые — для диалога:**
 - **[ru](../specialisty/arhivarius/arhivarius-ru.md)** — русский Архи. Живой диалог. «Братан», юмор, глубина.
