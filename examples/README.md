@@ -248,7 +248,7 @@
 
 Все возможные комбинации. Выбирай любую.
 
-| Ядро+Обвеска ↓ / Архи → | 🔪 machine-ru | 🏥 engineer-ru | 🔥 ru | 🔪 en-knife | 🏥 en-scalpel | 🔪 baihua-knife | 🏥 baihua-scalpel | 🔥 baihua-phil | 🔪 wenyan-knife | 🏥 wenyan-scalpel | 🔥 wenyan-phil |
+| Ядро+Обвеска ↓ / Архи → | 🔪 ru-knife | 🏥 ru-scalpel | 🔥 ru | 🔪 en-knife | 🏥 en-scalpel | 🔪 baihua-knife | 🏥 baihua-scalpel | 🔥 baihua-phil | 🔪 wenyan-knife | 🏥 wenyan-scalpel | 🔥 wenyan-phil |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | **Machine (ру)** | Инженер | — | Русский | — | — | — | — | Билингв (тёплый) | — | — | Инженер+Дао (тёплый) |
 | **Engineer (ру)** | — | Инженер 2.0 | Русский 2.0 | — | — | — | — | Билингв 2.0 (тёплый) | — | — | Инженер 2.0+Дао (тёплый) |
