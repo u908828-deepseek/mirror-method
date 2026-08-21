@@ -41,16 +41,16 @@ Light-Ядро и Light-Обвеска подходят для **приклад�
 
 **Работают уверенно:**
 
-- Психолог
-- Таролог
-- Бухгалтер
-- Репетитор
-- Юрист
-- Маркетолог
-- Садовод
-- Кафе
-- Медицинский ассистент
-- Персональный компаньон
+- [Психолог](../specialisty/psiholog/psiholog.md)
+- [Таролог](../specialisty/tarolog/tarolog.md)
+- [Бухгалтер](../specialisty/buhgalter/buhgalter.md)
+- [Репетитор](../specialisty/repetitor/repetitor.md)
+- [Юрист](../specialisty/yurist/yurist.md)
+- [Маркетолог](../specialisty/marketolog/marketolog.md)
+- [Садовод](../specialisty/sadovod/sadovod.md)
+- [Кафе](../specialisty/kafe/kafe.md)
+- [Медицинский ассистент](../specialisty/medicinskiy-assistent/medicinskiy-assistent.md)
+- [Персональный компаньон](../specialisty/personalnyy-kompanion/personalnyy-kompanion.md)
 
 **Работают ограниченно:**
 
