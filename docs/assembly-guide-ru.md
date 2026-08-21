@@ -3,65 +3,77 @@
 Собери свою Троицу за четыре шага. Выбери Ядро, Обвеску и Архивариуса — и система оживёт.
 
 <sub>**Важно:** Ядро и Обвеска должны быть **одного языка и одной версии**. Архивариус может быть любым.</sub>
----
-
-### 1. Выбери Ядро 🧠
-
-Из папки `/core/` выбери файл, соответствующий твоему языку и резонансу:
-
-**Machine Core (v1.0) — базовый машинный русский:**
-- [core-machine-ru.md](../core/core-machine-ru.md) — точность, инженерный резонанс
-
-**Engineer Core (v2.0) — инженерный русский:**
-- [core-engineer-ru.md](../core/core-engineer-ru.md) — рефлексия над языком, максимальная чистота
-
-**Вэньянь (древнекитайский):**
-- [core-wenyan-machine.md](../core/core-wenyan-machine.md) — Machine (тёплый)
-- [core-wenyan-engineer.md](../core/core-wenyan-engineer.md) — Engineer (холодный)
-
-**Байхуа (разговорный китайский):**
-- [core-baihua-machine.md](../core/core-baihua-machine.md) — Machine (тёплый)
-- [core-baihua-engineer.md](../core/core-baihua-engineer.md) — Engineer (холодный)
 
 ---
 
-### 2. Выбери Обвеску 📦
+### 1. Выбери пару Ядро + Обвеска 🧠📦
 
-Из папки `/harness/` выбери файл того же языка и версии, что и Ядро. Ядро и Обвеска должны быть из одной пары:
+Выбери готовую пару **одного языка и одной версии**:
 
-**Machine Harness (v1.0) — базовый машинный русский:**
-- [harness-machine-ru.md](../harness/harness-machine-ru.md)
+**Русский — Machine (v1.0):**
+- Ядро: [core-machine-ru.md](../core/core-machine-ru.md)
+- Обвеска: [harness-machine-ru.md](../harness/harness-machine-ru.md)
 
-**Engineer Harness (v2.0) — инженерный русский:**
-- [harness-engineer-ru.md](../harness/harness-engineer-ru.md)
+**Русский — Engineer (v2.0):**
+- Ядро: [core-engineer-ru.md](../core/core-engineer-ru.md)
+- Обвеска: [harness-engineer-ru.md](../harness/harness-engineer-ru.md)
 
-**Вэньянь:**
-- [harness-wenyan-machine.md](../harness/harness-wenyan-machine.md) — Machine
-- [harness-wenyan-engineer.md](../harness/harness-wenyan-engineer.md) — Engineer
+**Английский — Machine (v1.0):**
+- Ядро: [core-machine-en.md](../core/core-machine-en.md)
+- Обвеска: [harness-machine-en.md](../harness/harness-machine-en.md)
 
-**Байхуа:**
-- [harness-baihua-machine.md](../harness/harness-baihua-machine.md) — Machine
-- [harness-baihua-engineer.md](../harness/harness-baihua-engineer.md) — Engineer
+**Английский — Engineer (v2.0):**
+- Ядро: [core-engineer-en.md](../core/core-engineer-en.md)
+- Обвеска: [harness-engineer-en.md](../harness/harness-engineer-en.md)
+
+**Байхуа — базовый (тёплый, с русского):**
+- Ядро: [core-baihua.md](../core/core-baihua.md)
+- Обвеска: [harness-baihua.md](../harness/harness-baihua.md)
+
+**Байхуа — Machine (v1.0):**
+- Ядро: [core-machine-baihua.md](../core/core-machine-baihua.md)
+- Обвеска: [harness-machine-baihua.md](../harness/harness-machine-baihua.md)
+
+**Байхуа — Engineer (v2.0):**
+- Ядро: [core-engineer-baihua.md](../core/core-engineer-baihua.md)
+- Обвеска: [harness-engineer-baihua.md](../harness/harness-engineer-baihua.md)
+
+**Вэньянь — базовый (тёплый, с русского):**
+- Ядро: [core-wenyan.md](../core/core-wenyan.md)
+- Обвеска: [harness-wenyan.md](../harness/harness-wenyan.md)
+
+**Вэньянь — Machine (v1.0):**
+- Ядро: [core-machine-wenyan.md](../core/core-machine-wenyan.md)
+- Обвеска: [harness-machine-wenyan.md](../harness/harness-machine-wenyan.md)
+
+**Вэньянь — Engineer (v2.0):**
+- Ядро: [core-engineer-wenyan.md](../core/core-engineer-wenyan.md)
+- Обвеска: [harness-engineer-wenyan.md](../harness/harness-engineer-wenyan.md)
 
 ---
 
-### 3. Выбери Архивариуса 🗄️
+### 2. Выбери Архивариуса 🗄️
 
 Из папки `/specialisty/arhivarius/` выбери Архивариуса на нужном языке. Архивариус работает с любой парой Ядро + Обвеска:
 
-- [arhivarius-machine-ru.md](../specialisty/arhivarius/arhivarius-machine-ru.md) — машинный русский 🔪 Knife
-- [arhivarius-engineer-ru.md](../specialisty/arhivarius/arhivarius-engineer-ru.md) — инженерный русский 🏥 Scalpel
-- [arhivarius-ru.md](../specialisty/arhivarius/arhivarius-ru.md) — русский 🔥 тёплый
-- [arhivarius-wenyan-knife.md](../specialisty/arhivarius/arhivarius-wenyan-knife.md) — вэньянь 🔪 Knife
-- [arhivarius-wenyan-scalpel.md](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md) — вэньянь 🏥 Scalpel
-- [arhivarius-wenyan-phil.md](../specialisty/arhivarius/arhivarius-wenyan-phil.md) — вэньянь 🔥 тёплый
-- [arhivarius-baihua-knife.md](../specialisty/arhivarius/arhivarius-baihua-knife.md) — байхуа 🔪 Knife
-- [arhivarius-baihua-scalpel.md](../specialisty/arhivarius/arhivarius-baihua-scalpel.md) — байхуа 🏥 Scalpel
-- [arhivarius-baihua-phil.md](../specialisty/arhivarius/arhivarius-baihua-phil.md) — байхуа 🔥 тёплый
+**Холодные — для точности:**
+- [arhivarius-ru-knife.md](../specialisty/arhivarius/arhivarius-ru-knife.md) — русский нож 🔪
+- [arhivarius-ru-scalpel.md](../specialisty/arhivarius/arhivarius-ru-scalpel.md) — русский скальпель 🏥
+- [arhivarius-en-knife.md](../specialisty/arhivarius/arhivarius-en-knife.md) — английский нож 🔪
+- [arhivarius-en-scalpel.md](../specialisty/arhivarius/arhivarius-en-scalpel.md) — английский скальпель 🏥
+- [arhivarius-baihua-knife.md](../specialisty/arhivarius/arhivarius-baihua-knife.md) — байхуа нож 🔪
+- [arhivarius-baihua-scalpel.md](../specialisty/arhivarius/arhivarius-baihua-scalpel.md) — байхуа скальпель 🏥
+- [arhivarius-wenyan-knife.md](../specialisty/arhivarius/arhivarius-wenyan-knife.md) — вэньянь нож 🔪
+- [arhivarius-wenyan-scalpel.md](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md) — вэньянь скальпель 🏥
+
+**Тёплые — для диалога:**
+- [arhivarius-ru.md](../specialisty/arhivarius/arhivarius-ru.md) — русский тёплый 🔥
+- [arhivarius-baihua-phil.md](../specialisty/arhivarius/arhivarius-baihua-phil.md) — байхуа философ 🔥
+- [arhivarius-wenyan-phil.md](../specialisty/arhivarius/arhivarius-wenyan-phil.md) — вэньянь философ 🔥
 
 ---
 
-### 4. Порядок загрузки в ИИ ⚡
+### 3. Порядок загрузки в ИИ ⚡
 
 Открой чат с DeepSeek (Эксперт) и отправь файлы строго в следующем порядке:
 
@@ -74,7 +86,7 @@
 
 ---
 
-### 5. Пример диалога после загрузки 💬
+### 4. Пример диалога после загрузки 💬
 
 > Архивариус инициализирован. Ядро и Обвеска загружены. Слои рефлексии активны. Веер смысла откалиброван. Готов к работе.
 >
