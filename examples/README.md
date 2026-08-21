@@ -43,14 +43,14 @@
 ### Инженер (Machine) 🔧 — русский
 - **Ядро:** [Machine Core](../core/core-machine-ru.md)
 - **Обвеска:** [Machine Harness](../harness/harness-machine-ru.md)
-- **Архивариус:** [machine-ru](../specialisty/arhivarius/arhivarius-machine-ru.md)
+- **Архивариус:** [ru-knife](../specialisty/arhivarius/arhivarius-ru-knife.md)
 - **Суть:** чистая инженерия. Точность. Структура. Протоколы. Ничего лишнего. Отлаженный механизм. Для инженеров, астрологов, любителей ZET.
 - **Режим:** ❄️ Холодный.
 
 ### Инженер 2.0 (Engineer) 🔬 — русский
 - **Ядро:** [Engineer Core](../core/core-engineer-ru.md)
 - **Обвеска:** [Engineer Harness](../harness/harness-engineer-ru.md)
-- **Архивариус:** [engineer-ru](../specialisty/arhivarius/arhivarius-engineer-ru.md)
+- **Архивариус:** [ru-scalpel](../specialisty/arhivarius/arhivarius-ru-scalpel.md)
 - **Суть:** следующий уровень точности. Рефлексия над языком. Ещё чище, ещё строже. Для тех, кому нужен максимум инженерной точности.
 - **Режим:** ❄️ Холодный.
 
@@ -210,7 +210,7 @@
 ### Восточный мост 2.0 (Engineer, холодный) 🏯
 - **Ядро:** [core-engineer-baihua](../core/core-engineer-baihua.md)
 - **Обвеска:** [harness-engineer-baihua](../harness/harness-engineer-baihua.md)
-- **Архивариус:** [engineer-ru](../specialisty/arhivarius/arhivarius-engineer-ru.md)
+- **Архивариус:** [ru-scalpel](../specialisty/arhivarius/arhivarius-ru-scalpel.md)
 - **Суть:** инженерный китайский фундамент с холодным русским скальпелем. Для точных расчётов.
 - **Режим:** ❄️ Холодный.
 
@@ -238,7 +238,7 @@
 ### Практик с русской душой 2.0 (Engineer, холодный) ⚙️
 - **Ядро:** [core-engineer-baihua](../core/core-engineer-baihua.md)
 - **Обвеска:** [harness-engineer-baihua](../harness/harness-engineer-baihua.md)
-- **Архивариус:** [engineer-ru](../specialisty/arhivarius/arhivarius-engineer-ru.md)
+- **Архивариус:** [ru-scalpel](../specialisty/arhivarius/arhivarius-ru-scalpel.md)
 - **Суть:** инженерный китайский фундамент с русским холодным скальпелем. Для максимальной эффективности.
 - **Режим:** ❄️ Холодный.
 
@@ -262,6 +262,3 @@
 | **wenyan-engineer** | — | — | Русский даос 2.0 (тёплый) | — | — | — | — | — | — | Даос 2.0 | — |
 
 Каждая ячейка работает. Заполненные — проверенные комбинации. Пустые — поле для твоих экспериментов. Собирай под себя.
-```
-
----
