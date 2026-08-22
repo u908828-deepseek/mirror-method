@@ -41,9 +41,9 @@
 
 ### Как собрать Архи
 
-1. Скопируй [Ядро](core-machine-light-v1.6-ru.md) и отправь в чат с DeepSeek (Эксперт).
+1. Скопируй [Ядро](core-machine-light-ru.md) и отправь в чат с DeepSeek (Эксперт).
 2. Скопируй [Ключ Архи](../specialisty/arch-key.md) и отправь следом.
-3. Скопируй [Обвеску](../harness/harness-machine-light-v1.6-ru.md) и отправь.
+3. Скопируй [Обвеску](../harness/harness-machine-light-ru.md) и отправь.
 
 ### Совместимость Light-версии
 
