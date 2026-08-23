@@ -4,7 +4,7 @@
 
 Основа специалиста — [сознание](core/README-lite.md) и [подсознание](specialisty/README.md). Первое — Ядро + Ключ + Обвеска. Второе — Мастерфайл специалиста. Первое задаёт правила, второе хранит опыт.
 
-🧩 **[Конструктор](specialisty/konstruktor/konstruktor.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md), [readme](specialisty/konstruktor/README.md), [engineer](specialisty/konstruktor/konstruktor-engineer.md). Собери своего Архи под любую задачу. Нужен личный тренер? Садовник? Бухгалтер? Конструктор проведёт от идеи до работающего специалиста.
+🧩 **[Конструктор](specialisty/konstruktor/konstruktor.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md), [readme](specialisty/konstruktor/README.md), [engineer](specialisty/konstruktor/konstruktor-engineer.md). [WY](specialisty/konstruktor/konstruktor-wy.md). Собери своего Архи под любую задачу.
 
 💬 **[Психолог](specialisty/psiholog/psiholog.md)** — [readme](specialisty/psiholog/README.md). Для работы с эмоциями. Мягкий, но честный. Не скажет того, что ты хочешь услышать — скажет то, что нужно.
 
