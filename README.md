@@ -12,7 +12,7 @@
 
 ☕ **[Кафе](specialisty/kafe/kafe.md)** — [readme](specialisty/kafe/README.md). Управление кофейней: финансы, кухня, персонал. От операционки до стратегии.
 
-🐧 **[Linux](specialisty/linux/linux.md)** — [readme](specialisty/linux/README.md). NixOS, виртуализация, ZFS. Технически. Точно. Без воды.
+🐧 **[Linux](specialisty/linux/linux.md)** — [readme](specialisty/linux/README.md), [скальпель](specialisty/linux/linux-scalpel.md). NixOS, виртуализация, ZFS. Технически. Точно. Без воды.
 
 🐍 **[Python](specialisty/python/python.md)** — [readme](specialisty/python/README.md). Написание и отладка кода. Деловой, точный. Знает, где твоя точка с запятой.
 
