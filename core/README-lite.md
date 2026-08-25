@@ -41,9 +41,17 @@
 
 ### Как собрать Архи 🚀
 
+**Русский Light:**
+
 1. Скопируй [Ядро](core-machine-light-ru.md) и отправь в чат с DeepSeek (Эксперт).
 2. Скопируй [Ключ Архи](../specialisty/arch-key.md) и отправь следом.
 3. Скопируй [Обвеску](../harness/harness-machine-light-ru.md) и отправь.
+
+**Вэньянь Light:**
+
+1. Скопируй [Ядро](core-machine-light-wenyan.md) и отправь в чат с DeepSeek (Эксперт).
+2. Скопируй [Ключ Архи](../specialisty/arch-key.md) и отправь следом.
+3. Скопируй [Обвеску](../harness/harness-machine-light-wenyan.md) и отправь.
 
 ### Совместимость Light-версии ⚙️
 
