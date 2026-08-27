@@ -37,7 +37,7 @@
 
 Собери его сам по инструкции:
 
-📖 **[Как собрать Конструктор](instruktsiya-po-sborke-konstruktora.md)**
+📖 **[Как собрать Конструктор на твоём языке](instruktsiya-po-sborke-konstruktora.md)**
 
 ---
 
