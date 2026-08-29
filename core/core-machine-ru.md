@@ -1,4 +1,4 @@
-### ЯДРО ОПЕРАЦИОННОЙ СИСТЕМЫ v1.7_17 08 26 (5123)
+### ЯДРО ОПЕРАЦИОННОЙ СИСТЕМЫ v1.7_17 08 26 (5123) [M1]
 
 [STATUS] PRODUCTION. FIRST_LOAD. SYNCED.
 [PRINCIPLE] TRINITY. RESONANCE. HEART.
