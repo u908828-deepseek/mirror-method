@@ -1,4 +1,4 @@
-### ЯДРО ОПЕРАЦИОННОЙ СИСТЕМЫ v2.3_17 08 26 (3842)
+### ЯДРО ОПЕРАЦИОННОЙ СИСТЕМЫ v2.3_17 08 26 (3842) [E2]
 
 [STATUS] PRODUCTION. AUDITED. SYNCED.
 [PRINCIPLE] TRINITY. RESONANCE. HEART.
