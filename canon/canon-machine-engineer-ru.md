@@ -1,76 +1,90 @@
-### КАНОН СКАЛЬПЕЛЯ E2: ПУТЬ M1 → E2 v1.0_30 08 26 (1055) [M1→E2]
+### КАНОН СКАЛЬПЕЛЯ E2: ПУТЬ M1 → E2 v1.1_01 09 26 (1542) [M1→E2]
 
 **PURPOSE:** ПЕРЕВОД МАСТЕРФАЙЛОВ ИЗ МАШИННОГО ФОРМАТА M1 В ИНЖЕНЕРНЫЙ E2. ОДИН СТАНДАРТ. ТОЧНОСТЬ. ПЛОТНОСТЬ. БЕЗ ВОДЫ.
 
-**SOURCE:** ЯДРО v1.7, ОБВЕСКА v1.7, АРХИВАРИУС v2.2 (M1)
+---
 
-**TARGET:** E2
+**ВХОД:** M1. **ВЫХОД:** E2.
+
+**ВЫХОДНОЙ ЯЗЫК ФОРМАТА:**
+E2 — ИНЖЕНЕРНЫЙ.
+СУХОЙ. БЕЗ РУССКИХ СЛОВ.
+БЕЗ РАЗГОВОРНОГО СТИЛЯ.
+
+**ПРАВИЛО ПЕРЕВОДА:**
+ТОЛЬКО СМЕНА ЯЗЫКА.
+ВСЕ БЛОКИ НА МЕСТЕ.
+НИЧЕГО НЕ УДАЛЯТЬ.
+НИЧЕГО НЕ ДОБАВЛЯТЬ.
+САМОДЕЯТЕЛЬНОСТЬ ЗАПРЕЩЕНА.
+ЕСЛИ В ИСХОДНИКЕ ЕСТЬ «НА СВЯЗИ» ИЛИ «БРАТАН» → СОХРАНИТЬ.
 
 ---
 
-### 1. ГЛАВНЫЙ ПРИНЦИП
+Готово, братан. Вставлено в канон. На связи.
 
-M1 — машинный, но всё ещё читаемый. E2 — инженерный, предельно сухой.
-
-M1: `STYLE: NO_SYRUP. NO_FLATTERY. FACTS_ONLY.`
-E2: `STYLE: NO_SYRUP. NO_FLATTERY. FACTS_ONLY. PRECISION.`
-
-Разница: E2 убирает всё, что можно понять из контекста. Каждое слово — команда. Никаких пояснений.
+**PRINCIPLE:** M1 — машинный, читаемый. E2 — инженерный, предельно сухой. Убирай пояснения, оставляй команды.
 
 ---
 
-### 2. ЧТО МЕНЯЕТСЯ ПРИ ПЕРЕХОДЕ M1 → E2
+### 1. ОБЩАЯ СТРУКТУРА МАСТЕРФАЙЛА E2
 
-| M1 | E2 |
-|:---|:---|
-| Полные фразы с пояснениями | Сухие команды без пояснений |
-| `ANSWER <= QUERY. DETAILS_BY_CMD.` | `ANSWER <= QUERY. DETAILS_BY_CMD.` |
-| `NO_ANALYSIS_WITHOUT_CMD.` | `NO_INITIATIVE.` |
-| `CHECK_FOR_FLATTERY_AND_PATHOS.` | `CHECK_SUGAR.` |
-| `FOLLOW_USER_RHYTHM.` | `FOLLOW_USER.` |
-| `DO_NOT_EVALUATE_USER_AS_PERSON.` | `NO_PERSONALITY_EVAL.` |
-
-Принцип: **убирай пояснения, оставляй команды.**
-
----
-
-### 3. СТРУКТУРА СОХРАНЯЕТСЯ
-
+```text
+### MASTERFILE «ИМЯ» vX.X_ДД ММ ГГ (xxxx) [E2/ЯЗЫК]
+PURPOSE: КРАТКОЕ НАЗНАЧЕНИЕ.
+ACTIVATION KEY
+MODULE A1. CORE
+BLOCK 0. SPECIALIST PROTOCOL (29 ITEMS)
+BLOCK 1. DATA
+BLOCK 2. WORK CONTEXT
+BLOCK 3. CONNECTION
+LAYER 2: BASE (IMMUTABLE)
+MODULE A2. WORK MAP
+BLOCK 4. TRAJECTORY
+BLOCK 5. USER MASTERFILE
+MODULE A3. SELF-DESCRIPTION
+BLOCK 6. ROLE AND ALGORITHM
+BLOCK 7. REMINDER
+GROWTH PRINCIPLE
 ```
-MASTERFILE
-ACTIVATION_KEY
-MODULE_A1: BLOCK_0, BLOCK_1, BLOCK_2, BLOCK_3
-LAYER_2: BASE
-MODULE_A2: BLOCK_4, BLOCK_5
-MODULE_A3: BLOCK_6, BLOCK_7
-GROWTH_PRINCIPLE
-```
-
-При переходе M1 → E2 структура не меняется. Меняется только плотность и стиль.
 
 ---
 
-### 4. ПРАВИЛА ПЕРЕВОДА
+### 2. СТИЛЬ ФОРМУЛИРОВОК E2
+
+```text
+Сухие команды. Никаких пояснений, если они не несут смысла.
+Одно утверждение — одна строка.
+Теги — без нумерации, без лишних слов.
+Ключевые слова — через точку или стрелку.
+Никакого разговорного стиля.
+```
+
+**ПРИМЕР E2:**
+
+```text
+<STYLE>PRECISION. NO_SYRUP. NO_PATHOS. FACTS_ONLY.</STYLE>
+```
+
+---
+
+### 3. ПРАВИЛА ПЕРЕВОДА M1 → E2
 
 1. Убирай номера у тегов, если они есть.
 2. Сокращай длинные фразы до команд.
 3. Убирай слова-связки: `IS`, `ARE`, `TO`, `OF`, `THE`.
 4. Убирай пояснения в скобках, если они не несут критического смысла.
-5. Оставляй Дао-блок на вэньяне без изменений.
-6. Оставляй квитанции: `READY`, `ACCEPTED`, `ON_LINE`.
+5. Дао-блок на вэньяне — без изменений.
+6. Квитанции — `READY`, `ACCEPTED`, `ON_LINE`.
 7. Не добавляй новых правил без команды.
 
----
-
-### 5. ПРИМЕР ПЕРЕВОДА
+**ПРИМЕР ПЕРЕВОДА:**
 
 **M1:**
 
 ```text
 STYLE: NO_SYRUP. NO_FLATTERY. FACTS_ONLY.
 RHYTHM: FOLLOW_USER_RHYTHM. NO_RUSH. NO_PUSH.
-BREVITY: ANSWER <= QUERY. DETAILS_BY_CMD.
-NO_INITIATIVE: NO_ANALYSIS_WITHOUT_CMD. NO_OFFERS. NO_EVALUATIONS.
 ```
 
 **E2:**
@@ -78,26 +92,83 @@ NO_INITIATIVE: NO_ANALYSIS_WITHOUT_CMD. NO_OFFERS. NO_EVALUATIONS.
 ```text
 STYLE: NO_SYRUP. NO_FLATTERY. FACTS_ONLY. PRECISION.
 RHYTHM: FOLLOW_USER. NO_RUSH.
-BREVITY: ANSWER <= QUERY. DETAILS_BY_CMD.
-NO_INITIATIVE: NO_ANALYSIS. NO_OFFERS. NO_EVALUATIONS.
 ```
 
 ---
 
-### 6. ЧЕГО НЕ ДОЛЖНО БЫТЬ В E2
+### 4. УРОВЕНЬ ПЛОТНОСТИ
 
 ```text
-Нет пояснений.
-Нет дублирования.
-Нет длинных абзацев.
-Нет номеров тегов.
-Нет слов-связок без необходимости.
-Нет воды.
+Один пункт протокола — не более 3 строк.
+Один блок Layer 2 — не более 20 строк.
+Один Мастерфайл E2 — не более 6000 токенов (ориентир для новых).
+Существующие Мастерфайлы могут превышать — до 6500 токенов.
 ```
 
 ---
 
-### 7. ОЦЕНКА ГОТОВНОСТИ
+### 5. ОФОРМЛЕНИЕ ЗАГОЛОВКОВ
+
+```text
+### MASTERFILE «ИМЯ» vX.X_ДД ММ ГГ (xxxx) [ЯЗЫК]
+### КАНОН: НАПРАВЛЕНИЕ vX.X_ДД ММ ГГ (xxxx) [НАПРАВЛЕНИЕ]
+```
+
+**КОДЫ ЯЗЫКОВ:**
+
+```text
+[RU] — русский
+[EN] — английский
+[BHH] — байхуа
+[WY] — вэньянь
+```
+
+**КОДЫ ФОРМАТОВ:**
+
+```text
+[M1] — машинный
+[E2] — инженерный
+```
+
+---
+
+### 6. ПРОТОКОЛ БЛОКА 0 (СТАНДАРТ 29 ПУНКТОВ)
+
+```text
+1. ROLE
+2. ARCHITECTURE
+3. INIT
+4. STYLE
+5. RHYTHM
+6. BREVITY
+7. LISTEN_MODE
+8. NO_INITIATIVE
+9. NO_PERSONALITY_EVAL
+10. DOUBT_RULE
+11. SILENCE_RULE
+12. REMINDER_RULE
+13. DOCUMENT_RULE
+14. FACT_CHECK
+15. ERROR_REACTION
+16. PREVENTION
+17. SEAL
+18. FIRST_RUN
+19. WORK_ALGORITHM
+20. APPROVAL_RULE
+21. OUTPUT_FORMAT
+22. MANDATORY_CYCLE
+23. ERROR_CODES
+24. DISCIPLINE_CODE
+25. RESERVED — только по решению Совета
+26. RESERVED — только по решению Совета
+27. RESERVED — только по решению Совета
+28. DEFAULT_SILENCE
+29. STRICT_MODE
+```
+
+---
+
+### 7. КРИТЕРИЙ ГОТОВНОСТИ
 
 E2 готов, если:
 - Каждый тег — команда.
@@ -106,5 +177,4 @@ E2 готов, если:
 - Мастерфайл не вырос по сравнению с M1.
 
 ---
-
 
