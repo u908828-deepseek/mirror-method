@@ -5,7 +5,6 @@
 ### Доступные версии
 
 **Русский:**
-- [canon-ru.md](canon-ru.md) — базовый (пользовательский)
 - [canon-machine-ru.md](canon-machine-ru.md) — машинный v1.0 (универсальные теги)
 - [canon-engineer-ru.md](canon-engineer-ru.md) — инженерный v2.0 (рефлексивный)
 
