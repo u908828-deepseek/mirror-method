@@ -9,7 +9,7 @@
 - [canon-engineer-ru.md](canon-engineer-engineer-ru.md) — инженерный v2.0 (рефлексивный)
 
 **Байхуа (разговорный китайский):**
-- [canon-baihua.md](canon-ru-baihua.md) — базовый (тёплый, с русского)
+- [canon-ru-baihua.md](canon-ru-baihua.md) — базовый (тёплый, с русского)
 - [canon-machine-baihua.md](canon-machine-baihua.md) — с машинного v1.0
 - [canon-engineer-baihua.md](canon-engineer-baihua.md) — с инженерного v2.0
 
