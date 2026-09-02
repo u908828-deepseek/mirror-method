@@ -5,8 +5,8 @@
 ### Доступные версии
 
 **Русский:**
-- [canon-machine-ru.md](canon-machine-ru.md) — машинный v1.0 (универсальные теги)
-- [canon-engineer-ru.md](canon-engineer-ru.md) — инженерный v2.0 (рефлексивный)
+- [canon-machine-ru.md](canon-machine-machine-ru.md) — машинный v1.0 (универсальные теги)
+- [canon-engineer-ru.md](canon-engineer-engineer-ru.md) — инженерный v2.0 (рефлексивный)
 
 **Байхуа (разговорный китайский):**
 - [canon-baihua.md](canon-ru-baihua.md) — базовый (тёплый, с русского)
