@@ -5,24 +5,25 @@
 ### Доступные версии
 
 **Русский:**
-- [canon-machine-ru.md](canon-machine-machine-ru.md) — машинный v1.0 (универсальные теги)
-- [canon-engineer-ru.md](canon-engineer-engineer-ru.md) — инженерный v2.0 (рефлексивный)
+- [canon-ru-m1.md](ru/canon-ru-m1.md) — тёплый → машинный v1.0
+- [canon-m1-m1.md](ru/canon-m1-m1.md) — машинный v1.0 → машинный v1.0
+- [canon-m1-e2.md](ru/canon-m1-e2.md) — машинный v1.0 → инженерный v2.0
+- [canon-e2-e2.md](ru/canon-e2-e2.md) — инженерный v2.0 → инженерный v2.0
 
 **Английский:**
-- [canon-machine-en.md](canon-machine-en.md) — с машинного v1.0
-- [canon-engineer-en.md](canon-engineer-en.md) — с инженерного v2.0
+- [canon-ru-en.md](en/canon-ru-en.md) — тёплый → английский
+- [canon-m1-en.md](en/canon-m1-en.md) — машинный v1.0 → английский
+- [canon-e2-en.md](en/canon-e2-en.md) — инженерный v2.0 → английский
 
 **Байхуа (разговорный китайский):**
-- [canon-ru-baihua.md](canon-ru-baihua.md) — базовый (тёплый, с русского)
-- [canon-machine-baihua.md](canon-machine-baihua.md) — с машинного v1.0
-- [canon-engineer-baihua.md](canon-engineer-baihua.md) — с инженерного v2.0
+- [canon-ru-bhh.md](baihua/canon-ru-bhh.md) — тёплый → байхуа
+- [canon-m1-bhh.md](baihua/canon-m1-bhh.md) — машинный v1.0 → байхуа
+- [canon-e2-bhh.md](baihua/canon-e2-bhh.md) — инженерный v2.0 → байхуа
 
 **Вэньянь (древнекитайский):**
-- [canon-ru-wenyan.md](canon-ru-wenyan.md) — базовый (тёплый, с русского)
-- [canon-machine-wenyan.md](canon-machine-wenyan.md) — с машинного v1.0
-- [canon-engineer-wenyan.md](canon-engineer-wenyan.md) — с инженерного v2.0
-
-
+- [canon-ru-wy.md](wenyan/canon-ru-wy.md) — тёплый → вэньянь
+- [canon-m1-wy.md](wenyan/canon-m1-wy.md) — машинный v1.0 → вэньянь
+- [canon-e2-wy.md](wenyan/canon-e2-wy.md) — инженерный v2.0 → вэньянь
 
 ## Связь с Ядром и Обвеской
 
