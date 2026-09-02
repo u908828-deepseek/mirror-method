@@ -8,6 +8,10 @@
 - [canon-machine-ru.md](canon-machine-machine-ru.md) — машинный v1.0 (универсальные теги)
 - [canon-engineer-ru.md](canon-engineer-engineer-ru.md) — инженерный v2.0 (рефлексивный)
 
+**Английский:**
+- [canon-machine-en.md](canon-machine-en.md) — с машинного v1.0
+- [canon-engineer-en.md](canon-engineer-en.md) — с инженерного v2.0
+
 **Байхуа (разговорный китайский):**
 - [canon-ru-baihua.md](canon-ru-baihua.md) — базовый (тёплый, с русского)
 - [canon-machine-baihua.md](canon-machine-baihua.md) — с машинного v1.0
@@ -18,9 +22,7 @@
 - [canon-machine-wenyan.md](canon-machine-wenyan.md) — с машинного v1.0
 - [canon-engineer-wenyan.md](canon-engineer-wenyan.md) — с инженерного v2.0
 
-**Английский:**
-- [canon-machine-en.md](canon-machine-en.md) — с машинного v1.0
-- [canon-engineer-en.md](canon-engineer-en.md) — с инженерного v2.0
+
 
 ## Связь с Ядром и Обвеской
 
