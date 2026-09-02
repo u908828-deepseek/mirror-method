@@ -14,12 +14,12 @@
 - [canon-engineer-baihua.md](canon-engineer-baihua.md) — с инженерного v2.0
 
 **Вэньянь (древнекитайский):**
-- [canon-wenyan.md](canon-ru-wenyan.md) — базовый (тёплый, с русского)
+- [canon-ru-wenyan.md](canon-ru-wenyan.md) — базовый (тёплый, с русского)
 - [canon-machine-wenyan.md](canon-machine-wenyan.md) — с машинного v1.0
 - [canon-engineer-wenyan.md](canon-engineer-wenyan.md) — с инженерного v2.0
 
 **Английский:**
-- [canon-en.md](canon-ru-en.md) — базовый (тёплый, с русского)
+- [canon-ru-en.md](canon-ru-en.md) — базовый (тёплый, с русского)
 - [canon-machine-en.md](canon-machine-en.md) — с машинного v1.0
 - [canon-engineer-en.md](canon-engineer-en.md) — с инженерного v2.0
 
