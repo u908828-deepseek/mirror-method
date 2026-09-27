@@ -6,9 +6,6 @@
 
 🧩 **[Конструктор](specialisty/konstruktor/konstruktor-ru.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md), [readme](specialisty/konstruktor/README.md), [engineer](specialisty/konstruktor/konstruktor-ru-scalpel.md), [wenyan-scalpel](specialisty/konstruktor/konstruktor-wenyan-scalpel-ru.md). Собери своего Архи под любую задачу.
 
-💬 **[Психолог](specialisty/psiholog/psiholog.md)** — [readme](specialisty/psiholog/README.md). Для работы с эмоциями. Мягкий, но честный. Не скажет того, что ты хочешь услышать — скажет то, что нужно.
-
-🌌 **[Астролог](specialisty/astrolog/astrolog.md)** — [readme](specialisty/astrolog/README.md). Натальная карта, анализ аспектов, домов. Строит мост между звёздами и жизнью.
 
 ☕ **[Кафе](specialisty/kafe/kafe.md)** — [readme](specialisty/kafe/README.md). Управление кофейней: финансы, кухня, персонал. От операционки до стратегии.
 
