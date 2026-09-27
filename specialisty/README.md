@@ -4,7 +4,7 @@
 
 ## Готовые специалисты
 
-- 🧩 **[Конструктор](konstruktor/konstruktor.md)** — [пример создания](konstruktor/primer-sozdaniya.md). Собери своего Архи под любую задачу.
+- 🧩 **[Конструктор](konstruktor/konstruktor-ru.md)** — [пример создания](konstruktor/primer-sozdaniya.md). Собери своего Архи под любую задачу.
 - ☕ **[Кафе](kafe/kafe.md)** — [readmi](kafe/README.md). Управление кофейней, финансы, кухня, персонал.
 - 🐧 **[Linux](linux/linux.md)** — [readmi](linux/README.md). NixOS, виртуализация, ZFS.
 - 🐍 **[Python](python/python.md)** — [readmi](python/README.md). Написание и отладка кода. Деловой, точный.
