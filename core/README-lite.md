@@ -64,7 +64,6 @@ Light-Ядро и Light-Обвеска подходят для **приклад�
 - [Маркетолог](../specialisty/marketolog/marketolog.md)
 - [Садовод](../specialisty/sadovod/sadovod.md)
 - [Кафе](../specialisty/kafe/kafe.md)
-- [Медицинский ассистент](../specialisty/medicinskiy-assistent/medicinskiy-assistent.md)
 
 
 **Работают ограниченно:**
